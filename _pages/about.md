@@ -34,7 +34,7 @@ Selected Publications and Preprints
 -----
 1. **Gehua Ma**, R. Jiang, R. Yan, and H. Tang. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
 
-   *NeurIPS*, 2023. Available at [link](https://www.researchgate.net/publication/374087011_Temporal_Conditioning_Spiking_Latent_Variable_Models_of_the_Neural_Response_to_Natural_Visual_Scenes).
+   *NeurIPS (Conference on Neural Information Processing Systems)*, 2023. Available at [link](https://www.researchgate.net/publication/374087011_Temporal_Conditioning_Spiking_Latent_Variable_Models_of_the_Neural_Response_to_Natural_Visual_Scenes).
    
 2022
 -----
@@ -63,9 +63,9 @@ Patents
 
 Employment
 =====
-1. *Zhejiang Laboratory*, Hangzhou, PRC. 2020.7 -- 2021.6
+1. [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6
 
    *Research intern*.
-3. *Liangzhu Laboratory*, Hangzhou, PRC. 2022.7 -- 
+3. [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 
 
    *Research intern*.
