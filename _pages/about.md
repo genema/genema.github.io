@@ -29,6 +29,7 @@ Research Field
 
 Selected Publications and Preprints 
 ======
+
 2023
 -----
 1. **Gehua Ma**, R. Jiang, R. Yan, and H. Tang. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
@@ -54,6 +55,7 @@ Selected Publications and Preprints
 
 Patents
 =====
+
 2021
 -----
 1. H. Tang, **Gehua Ma**, and R. Yan. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation.
