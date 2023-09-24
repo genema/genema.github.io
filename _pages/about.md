@@ -10,17 +10,17 @@ redirect_from:
 
 This is the homepage of Marcus (Gehua) Ma. Currently, I am a Doctorate student from College of Computer Science and Technology, Zhejiang University, advised by Prof. Huajin Tang.
 
-[gehuama at icloud.com](gehuama@icloud.com) / [gehuama at zju.edu.cn](gehuama@zju.edu.cn) 
+gehuama at icloud.com or zju.edu.cn
 
 [Semantic Scholar](https://www.semanticscholar.org/author/Gehua-(Marcus)-Ma/1387821486) / [ResearchGate](https://www.researchgate.net/profile/Gehua-Ma-2) / [Github](https://github.com/genema)
 
 Research Field
 -----
-- Spiking, binary neural nets; Neuromorphic algorithms; 
+- Spiking, binary neural nets; [Neuromorphic algorithms](https://www.intel.com/content/www/us/en/research/neuromorphic-computing.html); 
 
-- Cognitive computational neuroscience, Sensory neuroscience;
+- [Cognitive computational neuroscience](https://doi.org/10.1038/s41593-018-0210-5), Sensory neuroscience;
 
-- Interpretability-encouraging machine learning, NeuroAI;
+- [Interpretability-encouraging machine learning](https://doi.org/10.1073/pnas.1900654116), [NeuroAI](https://doi.org/10.1038/s41467-023-37180-x);
 
 - Latent variable models; Variational bayes; Probabilistic graphical models; 
 
