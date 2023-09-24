@@ -14,6 +14,19 @@ This is the homepage of Marcus (Gehua) Ma. Currently, I am a Doctorate student f
 
 [Semantic Scholar](https://www.semanticscholar.org/author/Gehua-(Marcus)-Ma/1387821486) / [ResearchGate](https://www.researchgate.net/profile/Gehua-Ma-2) / [Github](https://github.com/genema)
 
+Research Field
+-----
+- Spiking, binary neural nets; Neuromorphic algorithms; 
+
+- Cognitive computational neuroscience, Sensory neuroscience;
+
+- Interpretability-encouraging machine learning, NeuroAI;
+
+- Latent variable models; Variational bayes; Probabilistic graphical models; 
+
+- Temporal, spatiotemporal data modeling;
+
+
 Selected Publications and Preprints 
 ======
 1. **Gehua Ma**, R. Jiang, R. Yan, and H. Tang. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
