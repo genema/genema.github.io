@@ -24,3 +24,8 @@ Selected Publications and Preprints
 Patents
 ----
 1. H. Tang, **Gehua Ma**, and R. Yan. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation. PCT (International): WO/2023/015658, CN: 113590971.
+
+Employment
+=====
+1. *Zhejiang Laboratory*, Hangzhou, PRC. 2020.7 -- 2021.6. *Research intern*.
+2. *Liangzhu Laboratory*, Hangzhou, PRC. 2022.7 -- . *Research intern*.
