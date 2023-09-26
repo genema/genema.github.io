@@ -54,10 +54,14 @@ Selected Publications and Preprints
 Patents
 =====
 
-2021
------
+**2021**
+
 + H. Tang, **Gehua Ma**, and R. Yan. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation.
-   PCT (International): WO/2023/015658, CN: 113590971.
+   PCT (International): WO/2023/015658, CN202110930940.0.
+
+**2020**
++ S. Xia, C. Tang, **Gehua Ma**, and B. Wang. A deep learning based vein visualization method and device.
+  CN201911365761.6
 
 Employment
 =====
