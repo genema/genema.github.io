@@ -13,8 +13,8 @@ This is the homepage of Marcus (Gehua) Ma. Currently, I am pursuing a Doctorate 
 
 [Semantic Scholar](https://www.semanticscholar.org/author/Gehua-(Marcus)-Ma/1387821486) / [ResearchGate](https://www.researchgate.net/profile/Gehua-Ma-2) / [Github](https://github.com/genema)
 
-Research Field
------
+**Research Field**
+
 - Spiking, binary neural nets; [Neuromorphic algorithms](https://www.intel.com/content/www/us/en/research/neuromorphic-computing.html); 
 
 - [Cognitive computational neuroscience](https://doi.org/10.1038/s41593-018-0210-5), Sensory neuroscience;
