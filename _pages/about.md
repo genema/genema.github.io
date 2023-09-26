@@ -9,9 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage of Marcus (Gehua) Ma. Currently, I am a Doctorate student from College of Computer Science and Technology, Zhejiang University, advised by Prof. Huajin Tang.
-
-gehuama at icloud.com or zju.edu.cn
+This is the homepage of Marcus (Gehua) Ma. Currently, I am pursuing a Doctorate at College of Computer Science and Technology, Zhejiang University, advised by Prof. Huajin Tang.
 
 [Semantic Scholar](https://www.semanticscholar.org/author/Gehua-(Marcus)-Ma/1387821486) / [ResearchGate](https://www.researchgate.net/profile/Gehua-Ma-2) / [Github](https://github.com/genema)
 
