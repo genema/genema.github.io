@@ -60,6 +60,7 @@ Patents
    PCT (International): WO/2023/015658, CN202110930940.0.
 
 **2020**
+
 + S. Xia, C. Tang, **Gehua Ma**, and B. Wang. A deep learning based vein visualization method and device.
   CN201911365761.6
 
