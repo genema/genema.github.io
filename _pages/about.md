@@ -22,7 +22,7 @@ This is the homepage of Marcus (Gehua) Ma. Currently, I am pursuing a Doctorate 
 
 - Latent variable models; Variational bayes; Probabilistic graphical models; 
 
-- Temporal, spatiotemporal data modeling;
+Others: Temporal, spatiotemporal data modeling; Audio coding; Object detection; Biometrics
 
 
 Selected Publications and Preprints 
