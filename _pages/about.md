@@ -16,7 +16,7 @@ This is the homepage of Marcus (Gehua) Ma. Currently, I am pursuing a Doctorate 
 
 | [Spiking/binary neural nets, Neuromorphic algorithms](https://www.intel.com/content/www/us/en/research/neuromorphic-computing.html) | [Cognitive computational neuroscience, Sensory neuroscience](https://doi.org/10.1038/s41593-018-0210-5) | [Interpretability-encouraging machine learning](https://doi.org/10.1073/pnas.1900654116) | [NeuroAI](https://doi.org/10.1038/s41467-023-37180-x) | Latent variable models | Variational bayes | Probabilistic graphical models |
 
-Others: | Temporal, spatiotemporal data modeling | Audio coding | Object detection | Biometrics |
+Others: Temporal, spatiotemporal data modeling; Audio coding; Object detection; Biometrics.
 
 
 Selected Publications and Preprints 
