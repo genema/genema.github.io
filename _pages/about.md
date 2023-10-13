@@ -36,9 +36,9 @@ Selected Publications and Preprints
 
    *Cell Press, Patterns*, 2023. Available at [link](https://www.cell.com/patterns/fulltext/S2666-3899(23)00200-3#%20).
 
-+ Y. Wang, **Gehua Ma** (Co-first Author), et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
+<!-- + Y. Wang, **Gehua Ma** (Co-first Author), et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
 
-   *Science/AAAS, Research*, 2023. Available at [link](http://dx.doi.org/10.34133/2022/9758491).
+   *Science/AAAS, Research*, 2023. Available at [link](http://dx.doi.org/10.34133/2022/9758491). -->
 
 **2021**
 
