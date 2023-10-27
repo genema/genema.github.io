@@ -36,9 +36,11 @@ Selected Publications and Preprints
 
    *Cell Press, Patterns*, 2023. Available at [link](https://www.cell.com/patterns/fulltext/S2666-3899(23)00200-3#%20).
 
-<!-- + Y. Wang, **Gehua Ma** (Co-first Author), et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
+<!-- 
++ Y. Wang, **Gehua Ma** (Co-first Author), et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
 
-   *Science/AAAS, Research*, 2023. Available at [link](http://dx.doi.org/10.34133/2022/9758491). -->
+   *Science/AAAS, Research*, 2023. Available at [link](http://dx.doi.org/10.34133/2022/9758491). 
+-->
 
 **2021**
 
@@ -60,7 +62,7 @@ Patents
 
 + H. Tang, **Gehua Ma**, and R. Yan. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation.
 
-  PCT (International): WO/2023/015658, CN202110930940.0.
+  PCT (International): WO/2023/015658, CN202110930940.0 (granted).
 
 **2020**
 
