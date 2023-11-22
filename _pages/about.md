@@ -21,11 +21,9 @@ This is the homepage of Marcus (Gehua) Ma. Currently, I am pursuing a Doctorate 
 - [NeuroAI](https://doi.org/10.1038/s41467-023-37180-x) 
 
 <!--
-[Interpretability-encouraging machine learning](https://doi.org/10.1073/pnas.1900654116) 
-[Latent variable models](https://link.springer.com/book/10.1007/978-94-009-5564-6) 
 [Variational bayes](http://www.gatsby.ucl.ac.uk/vbayes/) / [Probabilistic graphical models](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/) 
 -->
-Others: Temporal, spatiotemporal data modeling; Audio coding; Object detection; Biometrics.
+Others: [Interpretability-encouraging machine learning](https://doi.org/10.1073/pnas.1900654116); [Latent variable models](https://link.springer.com/book/10.1007/978-94-009-5564-6); Object detection; Biometrics.
 
 
 Selected Publications and Preprints 
