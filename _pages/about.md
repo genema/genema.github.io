@@ -31,7 +31,7 @@ Selected Publications and Preprints
 
 **2023**
 
-+ **Gehua Ma**, R. Jiang, R. Yan, and H. Tang. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
++ **Gehua Ma**, R. Jiang, R. Yan, et al. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
 
    *NeurIPS (Conference on Neural Information Processing Systems)*, 2023. Available at [link](https://www.researchgate.net/publication/374087011_Temporal_Conditioning_Spiking_Latent_Variable_Models_of_the_Neural_Response_to_Natural_Visual_Scenes).
    
@@ -49,7 +49,7 @@ Selected Publications and Preprints
 
 **2021**
 
-+ **Gehua Ma**, R. Jiang, L. Wang, H. Tang. Dual memory model for experience-once task-incremental lifelong learning.
++ **Gehua Ma**, R. Jiang, L. Wang, et al. Dual memory model for experience-once task-incremental lifelong learning.
 
    *Elsevier, Neural Networks*, 2023. Available at [link](https://www.researchgate.net/publication/372391901_Dual_memory_model_for_experience-once_task-incremental_lifelong_learning).
 
