@@ -33,7 +33,7 @@ Selected Publications and Preprints
 
 + **Gehua Ma**, R. Jiang, R. Yan, et al. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
 
-   *NeurIPS (Thirty-seventh Conference on Neural Information Processing Systems)*. Available at [link](https://www.researchgate.net/publication/374087011_Temporal_Conditioning_Spiking_Latent_Variable_Models_of_the_Neural_Response_to_Natural_Visual_Scenes).
+   *NeurIPS (Thirty-seventh Conference on Neural Information Processing Systems)*. Available at [link](https://neurips.cc/virtual/2023/poster/71480).
    
 **2022**
 
