@@ -53,7 +53,7 @@ Selected Publications and Preprints
 
    *Elsevier, Neural Networks*. Available at [link](https://www.researchgate.net/publication/372391901_Dual_memory_model_for_experience-once_task-incremental_lifelong_learning).
 
-+ **Gehua Ma**, J. Zhao, H. Tang. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
++ **Gehua Ma**, H. Wang, J. Zhao, et al. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
 
   *AAAI (Thirty-Eighth AAAI Conference on Artificial Intelligence)*. 
 
