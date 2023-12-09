@@ -14,11 +14,11 @@ This is the homepage of Marcus (Gehua) Ma. Currently, I am pursuing a Doctorate 
 
 **Research Field**
 
-- Neural time series, time series
+- Neural time series, time series, spatiotemporal modeling
 
 - [Cognitive computational neuroscience](https://doi.org/10.1038/s41593-018-0210-5) 
 
-- [NeuroAI](https://doi.org/10.1038/s41467-023-37180-x) 
+- [NeuroAI](https://doi.org/10.1038/s41467-023-37180-x), XAI
 
 <!--
 [Variational bayes](http://www.gatsby.ucl.ac.uk/vbayes/) / [Probabilistic graphical models](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/) 
@@ -33,31 +33,29 @@ Selected Publications and Preprints
 
 + **Gehua Ma**, R. Jiang, R. Yan, et al. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
 
-   *NeurIPS (Conference on Neural Information Processing Systems)*, 2023. Available at [link](https://www.researchgate.net/publication/374087011_Temporal_Conditioning_Spiking_Latent_Variable_Models_of_the_Neural_Response_to_Natural_Visual_Scenes).
+   *NeurIPS (Thirty-seventh Conference on Neural Information Processing Systems)*. Available at [link](https://www.researchgate.net/publication/374087011_Temporal_Conditioning_Spiking_Latent_Variable_Models_of_the_Neural_Response_to_Natural_Visual_Scenes).
    
 **2022**
 
 + **Gehua Ma**, R. Yan, and H. Tang. Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks.
 
-   *Cell Press, Patterns*, 2023. Available at [link](https://www.cell.com/patterns/fulltext/S2666-3899(23)00200-3#%20).
+   *Cell Press, Patterns*. Available at [link](https://www.cell.com/patterns/fulltext/S2666-3899(23)00200-3#%20).
 
 <!-- 
 + Y. Wang, **Gehua Ma** (Co-first Author), et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
 
-   *Science/AAAS, Research*, 2023. Available at [link](http://dx.doi.org/10.34133/2022/9758491). 
+   *Science/AAAS, Research*. Available at [link](http://dx.doi.org/10.34133/2022/9758491). 
 -->
 
 **2021**
 
 + **Gehua Ma**, R. Jiang, L. Wang, et al. Dual memory model for experience-once task-incremental lifelong learning.
 
-   *Elsevier, Neural Networks*, 2023. Available at [link](https://www.researchgate.net/publication/372391901_Dual_memory_model_for_experience-once_task-incremental_lifelong_learning).
-
-**2020**
+   *Elsevier, Neural Networks*. Available at [link](https://www.researchgate.net/publication/372391901_Dual_memory_model_for_experience-once_task-incremental_lifelong_learning).
 
 + **Gehua Ma**, J. Zhao, H. Tang. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
 
-  *Preprint*. 
+  *AAAI (Thirty-Eighth AAAI Conference on Artificial Intelligence)*. 
 
 
 Patents
