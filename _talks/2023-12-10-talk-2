@@ -1,0 +1,15 @@
+---
+title: "TeCoS-LVM: Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes"
+collection: talks
+type: "Presentation"
+permalink: /talks/2023-12-10-talk-2
+venue: "2023 ZJU-CCNT Future Computing Forum"
+date: 2023-12-10
+location: "Hangzhou, China"
+---
+
+**Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes**
+
+BY Gehua Ma
+
+Developing computational models of neural response is crucial for sensory neuroscience.However, most existing models employ an unnatural processing paradigm. This work introduces a tool which is able to perform computation in a **natural paradigm** like real neural circuits.
