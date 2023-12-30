@@ -82,3 +82,17 @@ Employment \& Internship
 + [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6
 
    *Neuromorphic Algorithm Research intern*.
+
+Exchange Experience
+-----
++ Honkong Chinese University, HK, PRC. 2016
+  
+  *Visiting Student.*
+  
++ Technical University Munich, München, Germany. 2014
+  
+  *Summer Campus.*
+
++ New York University, NY, USA. 2012
+  
+  *Summer Campus.*
