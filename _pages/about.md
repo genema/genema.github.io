@@ -77,11 +77,11 @@ Employment and Internship
 -----
 + [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 
 
-   *Cognitive Computational Neuroscience Research intern*.
+   *Cognitive Computational Neuroscience Research Intern*.
 
 + [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6
 
-   *Neuromorphic Algorithm Research intern*.
+   *Neuromorphic Algorithm Research Intern*.
 
 Exchange Experience
 -----
