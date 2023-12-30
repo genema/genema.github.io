@@ -26,7 +26,7 @@ This is the homepage of Marcus (Gehua) Ma. Currently, I am pursuing a Doctorate 
 Others: [Interpretability-encouraging machine learning](https://doi.org/10.1073/pnas.1900654116); [Latent variable models](https://link.springer.com/book/10.1007/978-94-009-5564-6); Object detection; Biometrics.
 
 
-Selected Publications and Preprints 
+Selected Publications/Preprints 
 -----
 
 **2023**
@@ -73,12 +73,12 @@ Patents
 
   CN201911365761.6
 
-Employment
+Employment \& Internship
 -----
 + [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 
 
-   *Research intern*.
+   *Cognitive Computational Neuroscience Research intern*.
 
 + [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6
 
-   *Research intern*.
+   *Neuromorphic Algorithm Research intern*.
