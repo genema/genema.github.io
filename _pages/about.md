@@ -73,7 +73,7 @@ Patents
 
   CN201911365761.6
 
-Employment \& Internship
+Employment and Internship
 -----
 + [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 
 
