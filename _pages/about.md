@@ -85,11 +85,11 @@ Employment and Internship
 
 Exchange Experience
 -----
-+ Honkong Chinese University, HK, PRC. 2016
++ The Chinese University of Hong Kong, HK, PRC. 2016
   
   *Visiting Student.*
   
-+ Technical University Munich, München, Germany. 2014
++ Technische Universität München, München, Germany. 2014
   
   *Summer Campus.*
 
