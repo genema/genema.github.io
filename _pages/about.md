@@ -14,7 +14,7 @@ This is the homepage of Marcus (Gehua) Ma. Currently, I am pursuing a Doctorate 
 
 **Research Field**
 
-- Neural time series, time series, spatiotemporal modeling
+- Time series, spatiotemporal modeling
 
 - [Cognitive computational neuroscience](https://doi.org/10.1038/s41593-018-0210-5) 
 
@@ -75,7 +75,13 @@ Patents
 
 Employment and Internship
 -----
-+ [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 
+<!--
++ [*Alibaba Group*](https://www.alibabagroup.com/en-US), Hangzhou, PRC. 2024 --
+
+  *Senior Algorithmic Engineer*
+-->
+
++ [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 2024
 
    *Cognitive Computational Neuroscience Research Intern*.
 
