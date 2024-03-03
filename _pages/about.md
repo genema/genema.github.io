@@ -41,11 +41,6 @@ Selected Publications/Preprints
 
    *Cell Press, Patterns*. Available at [link](https://www.cell.com/patterns/fulltext/S2666-3899(23)00200-3#%20).
 
-<!-- 
-+ Y. Wang, **Gehua Ma** (Co-first Author), G. Gao, et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
-
-   *Science/AAAS, Research*. Available at [link](http://dx.doi.org/10.34133/2022/9758491). 
--->
 
 **2021**
 
@@ -57,6 +52,11 @@ Selected Publications/Preprints
 
   *AAAI (Thirty-Eighth AAAI Conference on Artificial Intelligence)*. 
 
+**2020**
+
++ Y. Wang, **Gehua Ma** (Co-first Author), G. Gao, et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
+
+   *Science/AAAS, Research*. Available at [link](http://dx.doi.org/10.34133/2022/9758491). 
 
 Patents
 -----
