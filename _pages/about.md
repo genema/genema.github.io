@@ -83,7 +83,7 @@ Employment and Internship
 
 + [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6
 
-   *Research Intern*（Neuromorphic Algorithm ）
+   *Research Intern*（Neuromorphic Algorithm）
 
 Exchange Experience
 -----
