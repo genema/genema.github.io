@@ -14,11 +14,7 @@ This is the homepage of Marcus (Gehua) Ma. Currently, I am pursuing a Doctorate 
 
 **Research Field**
 
-- Time series, spatiotemporal modeling
-
-- [Cognitive computational neuroscience](https://doi.org/10.1038/s41593-018-0210-5) 
-
-- [NeuroAI](https://doi.org/10.1038/s41467-023-37180-x), XAI
+Time series, spatiotemporal modeling, [Cognitive computational neuroscience](https://doi.org/10.1038/s41593-018-0210-5) , [NeuroAI](https://doi.org/10.1038/s41467-023-37180-x), XAI
 
 <!--
 [Variational bayes](http://www.gatsby.ucl.ac.uk/vbayes/) / [Probabilistic graphical models](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/) 
@@ -54,7 +50,7 @@ Selected Publications/Preprints
 
 **2020**
 
-+ Y. Wang, **Gehua Ma** (Co-first Author), G. Gao, et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
++ Y. W., **Gehua Ma** (Co-first Author), G. Gao, et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
 
    *Science/AAAS, Research*. Available at [link](http://dx.doi.org/10.34133/2022/9758491). 
 
@@ -63,13 +59,13 @@ Patents
 
 **2021**
 
-+ H. Tang, **Gehua Ma**, and R. Yan. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation.
++ H. T., **Gehua Ma**, and R. Yan. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation.
 
   PCT (International): WO/2023/015658, CN202110930940.0 (granted).
 
 **2020**
 
-+ S. Xia, C. Tang, **Gehua Ma**, and B. Wang. A deep learning based vein visualization method and device.
++ S. X., C. T., **Gehua Ma**, and B. Wang. A deep learning based vein visualization method and device.
 
   CN201911365761.6
 
@@ -83,22 +79,22 @@ Employment and Internship
 
 + [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 2024
 
-   *Cognitive Computational Neuroscience Research Intern*.
+   *Research Intern*（Cognitive Computational Neuroscience）
 
 + [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6
 
-   *Neuromorphic Algorithm Research Intern*.
+   *Research Intern*（Neuromorphic Algorithm ）
 
 Exchange Experience
 -----
 + The Chinese University of Hong Kong, HK, PRC. 2016
   
-  *Visiting Student.*
+  *Visiting Student*
   
 + Technische Universität München, München, Germany. 2014
   
-  *Summer Campus.*
+  *Summer Campus*
 
 + New York University, NY, USA. 2012
   
-  *Summer Campus.*
+  *Summer Campus*
