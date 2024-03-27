@@ -10,16 +10,16 @@ redirect_from:
 
 This is the homepage of Marcus (Gehua) Ma. Currently, I am pursuing a Doctorate at College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. Huajin Tang.
 
-[Semantic Scholar](https://www.semanticscholar.org/author/Gehua-(Marcus)-Ma/1387821486) / [ResearchGate](https://www.researchgate.net/profile/Gehua-Ma-2) / [Github](https://github.com/genema)
+[Semantic Scholar](https://www.semanticscholar.org/author/Gehua-(Marcus)-Ma/1387821486) / [ResearchGate](https://www.researchgate.net/profile/Gehua-Ma-2) 
 
 **Research Field**
 
-Time series, spatiotemporal modeling, [Cognitive computational neuroscience](https://doi.org/10.1038/s41593-018-0210-5) , [NeuroAI](https://doi.org/10.1038/s41467-023-37180-x), XAI
+Recommender systems
 
 <!--
 [Variational bayes](http://www.gatsby.ucl.ac.uk/vbayes/) / [Probabilistic graphical models](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/) 
 -->
-Others: [Interpretability-encouraging machine learning](https://doi.org/10.1073/pnas.1900654116); [Latent variable models](https://link.springer.com/book/10.1007/978-94-009-5564-6); Object detection; Biometrics.
+Previous: Time series, Spatiotemporal modeling; [Cognitive computational neuroscience](https://doi.org/10.1038/s41593-018-0210-5); [NeuroAI](https://doi.org/10.1038/s41467-023-37180-x), [XAI](https://doi.org/10.1073/pnas.1900654116); [Latent variable models](https://link.springer.com/book/10.1007/978-94-009-5564-6); Object detection; Biometrics.
 
 
 Selected Publications/Preprints 
@@ -72,7 +72,7 @@ Patents
 Employment and Internship
 -----
 <!--
-+ [*Alibaba Group*](https://www.alibabagroup.com/en-US), Hangzhou, PRC. 2024 --
++ [*ByteDance Ltd.*](https://www.bytedance.com/en/), Hangzhou, PRC. 2024 --
 
   *Senior Algorithmic Engineer*
 -->
