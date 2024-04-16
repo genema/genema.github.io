@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage of Marcus (Gehua) Ma. Currently, I am pursuing a Doctorate at College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. Huajin Tang.
+Marcus (Gehua) Ma is currently pursuing a Doctorate at the College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. Huajin Tang.
 
 [Semantic Scholar](https://www.semanticscholar.org/author/Gehua-(Marcus)-Ma/1387821486) / [ResearchGate](https://www.researchgate.net/profile/Gehua-Ma-2) / [DBLP](https://dblp.uni-trier.de/pid/348/6861.html)
 
