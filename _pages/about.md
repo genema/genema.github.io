@@ -12,6 +12,7 @@ Marcus (Gehua) Ma is currently pursuing a Doctorate at the College of Computer S
 <!--
 [Semantic Scholar](https://www.semanticscholar.org/author/Gehua-(Marcus)-Ma/1387821486) / [ResearchGate](https://www.researchgate.net/profile/Gehua-Ma-2) / [DBLP](https://dblp.uni-trier.de/pid/348/6861.html)
 -->
+
 My recent research primarily focuses on *Recommender Systems*, [*Probabilistic Graphical Models*](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/), *Time Series*, and Spatiotemporal Modeling. Previously, I have devised solutions aimed at [*Cognitive Computational Neuroscience*](https://doi.org/10.1038/s41593-018-0210-5), [*NeuroAI*](https://doi.org/10.1038/s41467-023-37180-x), and [XAI](https://doi.org/10.1073/pnas.1900654116).
 
 
@@ -43,13 +44,9 @@ Selected Publications and Preprints
 
 **Patents**
 
-+ [2021] H. T., **Gehua Ma**, and R. Yan. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation.
++ [2021] H. T., **Gehua Ma**, and R. Yan. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation. PCT (International): WO/2023/015658, CN202110930940.0 (granted).
 
-  PCT (International): WO/2023/015658, CN202110930940.0 (granted).
-
-+ [2019] S. X., C. T., **Gehua Ma**, and B. Wang. A deep learning based vein visualization method and device.
-
-  CN201911365761.6
++ [2019] S. X., C. T., **Gehua Ma**, and B. Wang. A deep learning based vein visualization method and device. CN201911365761.6
 
 Selected Honors and Awards
 -----
@@ -61,29 +58,18 @@ Selected Honors and Awards
 Employment and Internship
 -----
 <!--
-+ [*ByteDance Ltd.*](https://www.bytedance.com/en/), Hangzhou, PRC. 2024 --
-
++ [*ByteDance Ltd.*](https://www.bytedance.com/en/), Hangzhou, PRC. 2024 -- 
   *Senior Algorithmic Engineer*
 -->
 
-+ [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 2024
++ [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 2024. *Research Intern*（Cognitive Computational Neuroscience）
 
-   *Research Intern*（Cognitive Computational Neuroscience）
-
-+ [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6
-
-   *Research Intern*（Neuromorphic Algorithm）
++ [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6. *Research Intern*（Neuromorphic Algorithm）
 
 Exchange Experience
 -----
-+ The Chinese University of Hong Kong, HK, PRC. 2016
++ The Chinese University of Hong Kong, HK, PRC. 2016. *Visiting Student*
   
-  *Visiting Student*
-  
-+ Technische Universität München, München, Germany. 2014
-  
-  *Summer Campus*
++ Technische Universität München, München, Germany. 2014. *Summer Campus*
 
-+ New York University, NY, USA. 2012
-  
-  *Summer Campus*
++ New York University, NY, USA. 2012. *Summer Campus*
