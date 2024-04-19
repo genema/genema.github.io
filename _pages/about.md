@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 Marcus (Gehua) Ma is currently pursuing a Doctorate at the College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. Huajin Tang.
-
+<!--
 [Semantic Scholar](https://www.semanticscholar.org/author/Gehua-(Marcus)-Ma/1387821486) / [ResearchGate](https://www.researchgate.net/profile/Gehua-Ma-2) / [DBLP](https://dblp.uni-trier.de/pid/348/6861.html)
-
+-->
 **Research Field**
 
 Recommender systems
@@ -57,7 +57,6 @@ Selected Publications and Preprints
 + [2019] S. X., C. T., **Gehua Ma**, and B. Wang. A deep learning based vein visualization method and device.
 
   CN201911365761.6
-
 
 Selected Honors and Awards
 -----
