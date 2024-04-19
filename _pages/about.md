@@ -12,14 +12,7 @@ Marcus (Gehua) Ma is currently pursuing a Doctorate at the College of Computer S
 <!--
 [Semantic Scholar](https://www.semanticscholar.org/author/Gehua-(Marcus)-Ma/1387821486) / [ResearchGate](https://www.researchgate.net/profile/Gehua-Ma-2) / [DBLP](https://dblp.uni-trier.de/pid/348/6861.html)
 -->
-**Research Field**
-
-Recommender systems
-
-<!--
-[Variational bayes](http://www.gatsby.ucl.ac.uk/vbayes/) / [Probabilistic graphical models](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/) 
--->
-Previous: Time series, Spatiotemporal modeling; [Cognitive computational neuroscience](https://doi.org/10.1038/s41593-018-0210-5); [NeuroAI](https://doi.org/10.1038/s41467-023-37180-x), [XAI](https://doi.org/10.1073/pnas.1900654116); [Latent variable models](https://link.springer.com/book/10.1007/978-94-009-5564-6); Object detection; Biometrics.
+My recent research primarily focuses on *Recommender Systems*, [*Probabilistic Graphical Models*](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/), *Time Series*, and Spatiotemporal Modeling. Previously, I have devised solutions aimed at [*Cognitive Computational Neuroscience*](https://doi.org/10.1038/s41593-018-0210-5), [*NeuroAI*](https://doi.org/10.1038/s41467-023-37180-x), and [XAI](https://doi.org/10.1073/pnas.1900654116).
 
 
 Selected Publications and Preprints 
