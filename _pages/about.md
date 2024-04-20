@@ -13,7 +13,7 @@ Marcus (Gehua) Ma is currently pursuing a Doctorate at the College of Computer S
 [Semantic Scholar](https://www.semanticscholar.org/author/Gehua-(Marcus)-Ma/1387821486) / [ResearchGate](https://www.researchgate.net/profile/Gehua-Ma-2) / [DBLP](https://dblp.uni-trier.de/pid/348/6861.html)
 -->
 
-My recent research primarily focuses on *Recommender Systems*, [*Probabilistic Graphical Models*](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/), *Time Series*, and Spatiotemporal Modeling. Previously, I have devised solutions aimed at [*Cognitive Computational Neuroscience*](https://doi.org/10.1038/s41593-018-0210-5), [*NeuroAI*](https://doi.org/10.1038/s41467-023-37180-x), and [*XAI*](https://doi.org/10.1073/pnas.1900654116).
+My recent research primarily focuses on *Recommender Systems*, [*Probabilistic Graphical Models*](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/), *Time Series*, and *Spatiotemporal Modeling*. Previously, I have devised solutions aimed at [*Cognitive Computational Neuroscience*](https://doi.org/10.1038/s41593-018-0210-5), [*NeuroAI*](https://doi.org/10.1038/s41467-023-37180-x), and [*XAI*](https://doi.org/10.1073/pnas.1900654116).
 
 
 Selected Publications and Preprints 
@@ -50,10 +50,10 @@ Selected Publications and Preprints
 
 Selected Honors and Awards
 -----
-+ Selected for [Tencent](https://www.tencent.com/en-us), [*'Qingyun Program'*](https://join.qq.com/qingyun.html) Talent Initiative
-+ *Award of Honor for Graduate* of [Zhejiang University](https://www.zju.edu.cn/english/) (2024)
-+ *Outstanding Graduate Student of CCNT*, [Zhejiang University](https://www.zju.edu.cn/english/) 
-+ *Graduate of Merit/Triple A graduate*, [Zhejiang University](https://www.zju.edu.cn/english/)
++ Selected for [Tencent](https://www.tencent.com/en-us), ['Qingyun Program'](https://join.qq.com/qingyun.html) Talent Initiative
++ Award of Honor for Graduate of [Zhejiang University](https://www.zju.edu.cn/english/) (2024)
++ Outstanding Graduate Student of CCNT, [Zhejiang University](https://www.zju.edu.cn/english/) 
++ Graduate of Merit/Triple A graduate, [Zhejiang University](https://www.zju.edu.cn/english/)
 
 Employment and Internship
 -----
