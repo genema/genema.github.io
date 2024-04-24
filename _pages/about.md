@@ -35,7 +35,7 @@ Selected Publications and Preprints
 
 + [2020] **Gehua Ma**, H. Wang, J. Zhao, et al. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
 
-  *AAAI (Thirty-Eighth AAAI Conference on Artificial Intelligence)*. 
+  *AAAI (Thirty-Eighth AAAI Conference on Artificial Intelligence)*. Available at [link](https://ojs.aaai.org/index.php/AAAI/article/view/27813).
 
 
 + [2020] Y. W., **Gehua Ma** (Co-first Author), G. Gao, et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
