@@ -55,10 +55,8 @@ Selected Honors and Awards
 
 Employment and Internship
 -----
-<!--
-+ [*ByteDance Ltd.*](https://www.bytedance.com/en/), Hangzhou, PRC. 2024 -- 
-  *Senior Algorithmic Engineer*
--->
+
++ [*ByteDance Ltd.*](https://www.bytedance.com/en/), Hangzhou, PRC. 2024 --. *Senior Algorithmic Engineer*
 
 + [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 2024. *Research Intern*（Cognitive Computational Neuroscience）
 
