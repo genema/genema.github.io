@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Marcus (Gehua) Ma is currently pursuing a Doctorate at the CCNT Lab, College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/) (expected to graduate at 30-July-2024).
+Marcus (Gehua) Ma is currently pursuing a Doctorate at the CCNT Lab, College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/) (expected to graduate at 30-June-2024).
 
 His recent research primarily focuses on *Recommender Systems*, *Probabilistic Graphical Models*, *Time Series*, and *Spatiotemporal Modeling*. Previously, he has devised solutions aimed at [*Cognitive Computational Neuroscience*](https://doi.org/10.1038/s41593-018-0210-5), [*NeuroAI*](https://doi.org/10.1038/s41467-023-37180-x), and [*XAI*](https://doi.org/10.1073/pnas.1900654116).
 
