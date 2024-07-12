@@ -47,7 +47,7 @@ Selected Publications and Preprints
 
 Selected Honors and Awards
 -----
-+ Selected for [TENCENT](https://www.tencent.com/en-us)-['PROJECT UP'](https://join.qq.com/qingyun.html) Talent Initiative
++ Selected for inaugural [TENCENT](https://www.tencent.com/en-us)-['PROJECT UP'](https://join.qq.com/qingyun.html) Talent Initiative
 + Selected for [CHINA MOBILE](https://www.chinamobileltd.com/en/global/home.php)-'PROJECT GOLDEN SEED' Talent Initiative
 + Award of Honor for Graduate of [Zhejiang University](https://www.zju.edu.cn/english/) 
 + Outstanding Graduate Student of CCNT, [Zhejiang University](https://www.zju.edu.cn/english/) 
