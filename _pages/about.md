@@ -67,6 +67,7 @@ Employment and Internship
 Service
 -----
 + Served as a reviewer for ICLR, AAAI, IJCNN, IEEE TPAMI, IEEE TNNLS, Neural Networks.
+  
 Exchange Experience
 -----
 + The Chinese University of Hong Kong, HK, PRC. 2016. *Visiting Student*
