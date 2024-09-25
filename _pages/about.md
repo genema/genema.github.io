@@ -56,12 +56,15 @@ Selected Honors and Awards
 Employment and Internship
 -----
 
-+ [*ByteDance Inc.*](https://www.bytedance.com/en/), Hangzhou, PRC. 2024 --. *Senior Algorithmic Engineer*
++ [*ByteDance Inc.*](https://www.bytedance.com/en/), Hangzhou, PRC. 2024.7 --. *Senior Algorithmic Engineer*
 
 + [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 2024. *Research Intern*（Cognitive Computational Neuroscience）
 
 + [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6. *Research Intern*（Neuromorphic Algorithm）
 
+Service
+-----
++ Served as a reviewer for ICLR, AAAI, IJCNN, IEEE TPAMI, IEEE TNNLS, Neural Networks.
 Exchange Experience
 -----
 + The Chinese University of Hong Kong, HK, PRC. 2016. *Visiting Student*
