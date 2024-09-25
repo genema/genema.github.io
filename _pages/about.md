@@ -58,9 +58,11 @@ Employment and Internship
 
 + [*ByteDance Inc.*](https://www.bytedance.com/en/), Hangzhou, PRC. 2024.7 --. *Senior Algorithmic Engineer*
 
-+ [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 2024. *Research Intern*（Cognitive Computational Neuroscience）
++ [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 2024.6. *Research Intern*（Cognitive Computational Neuroscience）
 
 + [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6. *Research Intern*（Neuromorphic Algorithm）
+
++ Brain-Machine Intelligence State Key Lab, Zhejiang University, Hangzhou, PRC. 2020.9 -- 2024.6. PhD candidate. 
 
 Service
 -----
