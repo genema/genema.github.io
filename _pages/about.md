@@ -16,26 +16,26 @@ His recent research primarily focuses on *Recommender Systems*, *Probabilistic G
 Selected Publications and Preprints 
 -----
 
-+ [2023] **Gehua Ma**, R. J., R. Y., et al. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
++ [2023] **G. Ma**, R. J., R. Y., et al. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
 
    *NeurIPS (Thirty-seventh Conference on Neural Information Processing Systems)*. Available at [link](https://neurips.cc/virtual/2023/poster/71480).
   
 
-+ [2022] **Gehua Ma**, R. Y., and H. T.. Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks.
++ [2022] **G. Ma**, R. Y., and H. T.. Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks.
 
    *Cell Press, Patterns*. Available at [link](https://www.cell.com/patterns/fulltext/S2666-3899(23)00200-3#%20).
 
 
-+ [2021] **Gehua Ma**, R. J., L. W., et al. Dual memory model for experience-once task-incremental lifelong learning.
++ [2021] **G. Ma**, R. J., L. W., et al. Dual memory model for experience-once task-incremental lifelong learning.
 
    *Elsevier, Neural Networks*. Available at [link](https://www.researchgate.net/publication/372391901_Dual_memory_model_for_experience-once_task-incremental_lifelong_learning).
 
-+ [2020] **Gehua Ma**, H. W., J. Z., et al. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
++ [2020] **G. Ma**, H. W., J. Z., et al. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
 
   *AAAI (Thirty-Eighth AAAI Conference on Artificial Intelligence)*. Available at [link](https://ojs.aaai.org/index.php/AAAI/article/view/27813).
 
 
-+ [2020] Y. W., **Gehua Ma** (Co-first Author), G. G., et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
++ [2020] Y. W., **G. Ma** (Co-first Author), G. G., et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
 
    *Science/AAAS, Research*. Available at [link](http://dx.doi.org/10.34133/2022/9758491). 
 
