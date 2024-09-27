@@ -66,7 +66,7 @@ Employment and Internship
 
 Service
 -----
-+ Served as a reviewer for ICLR, AAAI, IJCAI, IJCNN, IEEE TPAMI, IEEE TNNLS, Neural Networks.
++ Served as a reviewer for top-tier tracks and journals including ICLR, AAAI, IJCAI, IJCNN, Proceedings of IEEE, IEEE TPAMI, IEEE TNNLS, Neural Networks.
   
 Exchange Experience
 -----
