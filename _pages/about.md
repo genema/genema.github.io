@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Gehua Ma obtained his PhD in Artificial Intelligence at *College of Computer Science and Technology-CCNT Lab, [Zhejiang University](https://www.zju.edu.cn/english/)*, advised by Prof. H. T..
+Dr. Gehua Ma obtained his PhD in Artificial Intelligence at *College of Computer Science and Technology-CCNT Lab, [Zhejiang University](https://www.zju.edu.cn/english/)*.
 
-His recent research primarily focuses on *Causal Inference and Spectrum Analyses for Recommender Systems*, *Probabilistic Graphical Models*, and *Spatiotemporal Modeling*. Previously, he has devised AI4Science solutions aimed at [*Cognitive Computational Neuroscience*](https://doi.org/10.1038/s41593-018-0210-5), [*NeuroAI*](https://doi.org/10.1038/s41467-023-37180-x), and [*XAI*](https://doi.org/10.1073/pnas.1900654116).
+His recent research primarily focuses on *Causal Inference and Spectrum Analyses in Recommender Systems*, *Probabilistic Graphical Models*, and *Spatiotemporal Modeling*. Previously, he has devised AI4Science solutions aimed at [*Cognitive Computational Neuroscience*](https://doi.org/10.1038/s41593-018-0210-5), [*NeuroAI*](https://doi.org/10.1038/s41467-023-37180-x), and [*XAI*](https://doi.org/10.1073/pnas.1900654116).
 
 
 Selected Publications and Preprints 
@@ -47,7 +47,7 @@ Selected Publications and Preprints
 
 Selected Honors and Awards
 -----
-+ Selected for inaugural [TENCENT](https://www.tencent.com/en-us)-['PROJECT UP'](https://join.qq.com/qingyun.html) Talent Initiative （腾讯-青云计划人才项目）
++ Selected for inaugural [TENCENT](https://www.tencent.com/en-us)-['PROJECT UP'](https://join.qq.com/qingyun.html) Talent Initiative （腾讯-"青云计划"）
 + Selected for [CHINA MOBILE](https://www.chinamobileltd.com/en/global/home.php)-'PROJECT GOLDEN SEED' Talent Initiative
 + Award of Honor for Graduate of [Zhejiang University](https://www.zju.edu.cn/english/) 
 + Outstanding Graduate Student of CCNT, [Zhejiang University](https://www.zju.edu.cn/english/) 
