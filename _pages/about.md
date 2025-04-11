@@ -45,7 +45,7 @@ Selected Publications and Preprints
 
 + [2019] S. X., C. T., **Gehua Ma**, and B. Wang. A deep learning based vein visualization method and device. CN201911365761.6
 
-Selected Honors and Awards
+Selected Honors
 -----
 + Selected for inaugural [TENCENT](https://www.tencent.com/en-us)-['PROJECT UP'](https://join.qq.com/qingyun.html) Talent Initiative （腾讯-"青云计划"）
 + Selected for [CHINA MOBILE](https://www.chinamobileltd.com/en/global/home.php)-'PROJECT GOLDEN SEED' Talent Initiative
@@ -66,7 +66,7 @@ Employment and Internship
 
 Service
 -----
-+ Served as a reviewer for top-tier tracks and journals including ICLR, AAAI, IJCAI, IJCNN, Proceedings of IEEE, IEEE TPAMI, IEEE TNNLS, Neural Networks, etc.
++ Served as a reviewer for top-tier tracks and journals including NeurIPS, ICLR, IJCAI, ICASSP, Proc. of IEEE, IEEE TPAMI, IEEE TNNLS, Neural Networks, etc.
   
 Exchange Experience
 -----
