@@ -28,7 +28,7 @@ Selected Publications and Preprints
 
 + [2021] **G. Ma**, R. J., L. W., et al. Dual memory model for experience-once task-incremental lifelong learning.
 
-   *Elsevier, Neural Networks*. Available at [link](https://www.researchgate.net/publication/372391901_Dual_memory_model_for_experience-once_task-incremental_lifelong_learning).
+   *Elsevier, Neural Networks*. Available at [link](https://github.com/genema/genema.github.io/blob/master/files/1-s2.0-S0893608023003672-main.pdf).
 
 + [2020] **G. Ma**, H. W., J. Z., et al. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
 
