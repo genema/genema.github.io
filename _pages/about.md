@@ -13,6 +13,15 @@ Dr. Gehua Ma obtained his PhD in Artificial Intelligence at *College of Computer
 His recent research primarily focuses on *Causal Inference and Spectrum Analyses in Recommender Systems*, *Probabilistic Graphical Models*, and *Spatiotemporal Modeling*. Previously, he has devised AI4Science solutions aimed at [*Cognitive Computational Neuroscience*](https://doi.org/10.1038/s41593-018-0210-5), [*NeuroAI*](https://doi.org/10.1038/s41467-023-37180-x), and [*XAI*](https://doi.org/10.1073/pnas.1900654116).
 
 
+Selected Honors
+-----
++ Inaugural [TENCENT](https://www.tencent.com/en-us)-['PROJECT UP'](https://join.qq.com/qingyun.html) Talent Initiative （腾讯-"青云计划"）
++ [CHINA MOBILE](https://www.chinamobileltd.com/en/global/home.php)-'PROJECT GOLDEN SEED' Talent Initiative
++ Award of Honor for Graduate of [Zhejiang University](https://www.zju.edu.cn/english/) 
++ Outstanding Graduate Student of CCNT, [Zhejiang University](https://www.zju.edu.cn/english/) 
++ Graduate of Merit/Triple A graduate, [Zhejiang University](https://www.zju.edu.cn/english/)
+
+
 Selected Publications and Preprints 
 -----
 + [2024] [Dissertation] Research on A Spiking Generative Model of Spatiotemporal Memory Construction and Computation. Available at [link](https://github.com/genema/genema.github.io/blob/master/_publications/Research_on_A_Spiking_Generative_Model_of_Spatiotemporal_Memory_Construction_and_Computation.pdf)
@@ -40,19 +49,10 @@ Selected Publications and Preprints
 
    *Science/AAAS, Research*. Available at [link](http://dx.doi.org/10.34133/2022/9758491). 
 
-**Patents**
-
-+ [2021] H. T., **Gehua Ma**, and R. Y. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation. PCT (International): WO/2023/015658, CN202110930940.0 (granted).
-
-+ [2019] S. X., C. T., **Gehua Ma**, and B. Wang. A deep learning based vein visualization method and device. CN201911365761.6
-
-Selected Honors
+Service
 -----
-+ Selected for inaugural [TENCENT](https://www.tencent.com/en-us)-['PROJECT UP'](https://join.qq.com/qingyun.html) Talent Initiative （腾讯-"青云计划"）
-+ Selected for [CHINA MOBILE](https://www.chinamobileltd.com/en/global/home.php)-'PROJECT GOLDEN SEED' Talent Initiative
-+ Award of Honor for Graduate of [Zhejiang University](https://www.zju.edu.cn/english/) 
-+ Outstanding Graduate Student of CCNT, [Zhejiang University](https://www.zju.edu.cn/english/) 
-+ Graduate of Merit/Triple A graduate, [Zhejiang University](https://www.zju.edu.cn/english/)
++ Served for top-tier tracks and journals including NeurIPS, ICLR, IJCAI, ICASSP, Proc. of IEEE, IEEE TPAMI, IEEE TNNLS, Neural Networks, etc.
+  
 
 Employment and Internship
 -----
@@ -65,10 +65,7 @@ Employment and Internship
 
 + [*Brain-Machine Intelligence State Key Lab*](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738116/page.htm), Zhejiang University, Hangzhou, PRC. 2020.9 -- 2024.6. PhD candidate
 
-Service
------
-+ Served for top-tier tracks and journals including NeurIPS, ICLR, IJCAI, ICASSP, Proc. of IEEE, IEEE TPAMI, IEEE TNNLS, Neural Networks, etc.
-  
+
 Exchange Experience
 -----
 + The Chinese University of Hong Kong, HK, PRC. 2016. *Visiting Student*
@@ -76,3 +73,12 @@ Exchange Experience
 + Technische Universität München, München, Germany. 2014. *Summer Campus*
 
 + New York University, NY, USA. 2012. *Summer Campus*
+
+
+Patents
+-----
+
++ [2021] H. T., **Gehua Ma**, and R. Y. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation. PCT (International): WO/2023/015658, CN202110930940.0 (granted).
+
++ [2019] S. X., C. T., **Gehua Ma**, and B. Wang. A deep learning based vein visualization method and device. CN201911365761.6
+
