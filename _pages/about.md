@@ -15,6 +15,7 @@ His recent research primarily focuses on *Causal Inference and Spectrum Analyses
 
 Selected Publications and Preprints 
 -----
++ [2024] [Dissertation] Research on A Spiking Generative Model of Spatiotemporal Memory Construction and Computation. Available at [link](https://github.com/genema/genema.github.io/blob/master/_publications/Research_on_A_Spiking_Generative_Model_of_Spatiotemporal_Memory_Construction_and_Computation.pdf)
 
 + [2023] **G. Ma**, R. J., R. Y., et al. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
 
