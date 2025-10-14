@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. Gehua Ma obtained his PhD in Artificial Intelligence at *College of Computer Science and Technology-CCNT Lab, [Zhejiang University](https://www.zju.edu.cn/english/)*.
 
-His recent research primarily focuses on *Causal Inference and Spectrum Analyses in Recommender Systems*, *Probabilistic Graphical Models*, and *Spatiotemporal Modeling*. Previously, he has devised AI4Science solutions aimed at [*Cognitive Computational Neuroscience*](https://doi.org/10.1038/s41593-018-0210-5), [*NeuroAI*](https://doi.org/10.1038/s41467-023-37180-x), and [*XAI*](https://doi.org/10.1073/pnas.1900654116).
+His recent research primarily focuses on *Causal Inference and Spectrum Analyses in Recommender Systems*, *Associative Memory*, and *Spatiotemporal Modeling*. Previously, he has devised AI4Science solutions aimed at [*Cognitive Computational Neuroscience*](https://doi.org/10.1038/s41593-018-0210-5), [*NeuroAI*](https://doi.org/10.1038/s41467-023-37180-x), and [*XAI*](https://doi.org/10.1073/pnas.1900654116).
 
 
 Selected Honors
