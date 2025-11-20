@@ -54,7 +54,7 @@ Service
 + Served for top-tier tracks and journals including NeurIPS, ICLR, IJCAI, ICASSP, Proc. of IEEE, IEEE TPAMI, IEEE TNNLS, Neural Networks, etc.
   
 
-Employment and Internship
+Experience
 -----
 
 + [*ByteDance Inc.*](https://www.bytedance.com/en/), Hangzhou, PRC. 2024.7 --. *Senior Algorithmic Engineer*
@@ -66,7 +66,7 @@ Employment and Internship
 + [*Brain-Machine Intelligence State Key Lab*](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738116/page.htm), Zhejiang University, Hangzhou, PRC. 2020.9 -- 2024.6. PhD candidate
 
 
-Exchange Experience
+Exchange 
 -----
 + The Chinese University of Hong Kong, HK, PRC. 2016. *Visiting Student*
   
