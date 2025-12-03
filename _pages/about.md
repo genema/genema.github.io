@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. Gehua Ma obtained his PhD in Artificial Intelligence at *College of Computer Science and Technology-CCNT Lab, [Zhejiang University](https://www.zju.edu.cn/english/)*.
 
-His recent research primarily focuses on *Reinforcement Learning*, *Causal Inference*, and *Linear Attention*. Previously, he has worked on *Associative Memory Model*, *Representation Learning* solutions aimed at *Computational Neuroscience* and *Agentic Intelligence*.
+His recent research primarily focuses on *Reinforcement Learning*, *Causal Inference*, and *Linear Attention*. Previously, he has worked on *Credit Assignment*, *Associative Memory Model*, *Representation Learning* solutions aimed at *Computational Neuroscience* and *Agentic Intelligence*.
 
 
 Selected Honors
