@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Gehua Ma obtained his PhD in Artificial Intelligence at *College of Computer Science and Technology-CCNT Lab, [Zhejiang University](https://www.zju.edu.cn/english/)*.
+Dr. Gehua Ma obtained his PhD in Artificial Intelligence at *State Key Lab of Brain-Machine Intelligence, [Zhejiang University](https://www.zju.edu.cn/english/)*.
 
 Previously, he has worked on *Credit Assignment*, *Associative Memory Model*, *Representation Learning* solutions aimed at *Computational Neuroscience* and *Agentic Intelligence*.
 
