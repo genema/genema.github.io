@@ -13,7 +13,7 @@ body {
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.3;
+  line-height: 1.4;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -196,7 +196,7 @@ figure {
 
   img {
     height: 200px;
-   width: auto;
+    width: auto;
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
