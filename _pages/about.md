@@ -27,32 +27,33 @@ Selected Publications and Preprints
 + [2024] [Dissertation] Research on A Spiking Generative Model of Spatiotemporal Memory Construction and Computation. Available at [link](https://github.com/genema/genema.github.io/blob/master/_publications/Research_on_A_Spiking_Generative_Model_of_Spatiotemporal_Memory_Construction_and_Computation.pdf)
 
   > A Model of Basic World Understanding. Multi-modal World Model, Associative Memory Model, Credit Assignment in Binary Nets.
- 
+  > ![1772873942415](https://github.com/user-attachments/assets/d79ad4fa-d000-465d-8463-d59cd678666e)
 
 + [2023] G. Ma, et al. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
 
    *NeurIPS (Thirty-seventh Conference on Neural Information Processing Systems)*. Available at [link](https://neurips.cc/virtual/2023/poster/71480).
 
   > About Memory-conditioning Computation, Credit Assignment
-  
+  > <img width="1944" height="524" alt="1772873460045" src="https://github.com/user-attachments/assets/12be40e9-2de1-4b30-8ff9-92cf9ba1792d" />
+
 
 + [2022] G. Ma, et al. Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks.
 
    *Cell Press, Patterns*. Available at [link](https://www.cell.com/patterns/fulltext/S2666-3899(23)00200-3#%20).
-
   > About Credit Assignment, Gradient Estimator
-
+  > ![1772873519777](https://github.com/user-attachments/assets/7fceb04b-04ab-4506-a2ee-f128e80f80b3)
 
 + [2021] G. Ma, et al. Dual memory model for experience-once task-incremental lifelong learning.
 
    *Elsevier, Neural Networks*. Available at [link](https://github.com/genema/genema.github.io/blob/master/files/1-s2.0-S0893608023003672-main.pdf).
 
   > About Continual Learning, Associative Memory
+  > <img width="1312" height="466" alt="1772873589377" src="https://github.com/user-attachments/assets/13a336a6-71d4-4683-9155-e3f322cd0ed7" />
+  > <img width="1448" height="748" alt="1772873613708" src="https://github.com/user-attachments/assets/7027ce58-761d-4c57-a28c-4b0071b23f7b" />
 
 + [2020] G. Ma, et al. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
 
   *AAAI (Thirty-Eighth AAAI Conference on Artificial Intelligence)*. Available at [link](https://ojs.aaai.org/index.php/AAAI/article/view/27813).
-
   > About Representation Learning, Spatiotemporal Modeling
 
 
