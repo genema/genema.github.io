@@ -28,7 +28,7 @@ Selected Publications and Preprints
 
   > A Model of Basic World Understanding. Multi-modal World Model, Associative Memory Model, Credit Assignment in Binary Nets.
   > 
-  > <img width="auto" height="300" alt="1772873942415" src="https://github.com/user-attachments/assets/d79ad4fa-d000-465d-8463-d59cd678666e" />
+  > <img width="auto" height="250" alt="1772873942415" src="https://github.com/user-attachments/assets/d79ad4fa-d000-465d-8463-d59cd678666e" />
 
 + [2023] G. Ma, et al. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
 
@@ -43,14 +43,14 @@ Selected Publications and Preprints
    *Cell Press, Patterns*. Available at [link](https://www.cell.com/patterns/fulltext/S2666-3899(23)00200-3#%20).
   > About Credit Assignment, Gradient Estimator
   > 
-  > <img width="auto" height="300" alt="1772873519777" src="https://github.com/user-attachments/assets/57c649d7-3d50-4699-9391-d1149756a201" />
+  > <img width="auto" height="250" alt="1772873519777" src="https://github.com/user-attachments/assets/57c649d7-3d50-4699-9391-d1149756a201" />
 
 + [2021] G. Ma, et al. Dual memory model for experience-once task-incremental lifelong learning.
    *Elsevier, Neural Networks*. Available at [link](https://github.com/genema/genema.github.io/blob/master/files/1-s2.0-S0893608023003672-main.pdf).
   > About Continual Learning, Associative Memory
   >
-  > <img width="auto" height="180" alt="1772873589377" src="https://github.com/user-attachments/assets/13a336a6-71d4-4683-9155-e3f322cd0ed7" />
-  > <img width="auto" height="180" alt="1772873613708" src="https://github.com/user-attachments/assets/7027ce58-761d-4c57-a28c-4b0071b23f7b" />
+  > <img width="auto" height="170" alt="1772873589377" src="https://github.com/user-attachments/assets/13a336a6-71d4-4683-9155-e3f322cd0ed7" />
+  > <img width="auto" height="170" alt="1772873613708" src="https://github.com/user-attachments/assets/7027ce58-761d-4c57-a28c-4b0071b23f7b" />
 
 + [2020] G. Ma, et al. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
 
