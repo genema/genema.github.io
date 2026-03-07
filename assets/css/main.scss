@@ -39,11 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-.markdown-body img {
-  width: 400px !important; /* 固定宽度，根据你的网页布局调整 */
-  max-width: 100% !important; /* 响应式适配：屏幕小于800px时，图片宽度随屏幕缩放 */
-  height: auto !important; /* 高度自动，避免变形 */
-  display: block; /* 可选，消除图片底部默认空白 */
-  margin: 10px 0; /* 可选，设置图片上下间距，排版更舒朗 */
-}
