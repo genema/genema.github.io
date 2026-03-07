@@ -39,3 +39,27 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// ========================
+// 新增：统一控制Markdown中的图片尺寸
+// ========================
+/* 核心：覆盖Minimal Mistakes默认的图片样式 */
+.markdown-body img,
+.entry-content img,
+.page-content img {
+  // 统一固定高度（你可根据需求调整，比如200px/250px）
+  height: 200px !important;
+  // 宽度自动等比例缩放，避免图片拉伸变形
+  width: auto !important;
+  // 可选优化：排版更工整
+  display: block !important;    // 消除图片底部默认空白
+  margin: 1rem 0 !important;    // 上下间距（1rem≈16px，适配主题默认间距）
+  max-width: 100% !important;   // 响应式：手机端不超出屏幕宽度
+  object-fit: contain !important; // 保证图片完整显示，不裁剪
+}
+
+/* 可选：针对2021年那两行并列的图片，增加横向间距 */
+.entry-content img + img {
+  margin-left: 0.5rem !important; // 两张图之间加8px左右间距
+  height: 200px !important;       // 强制和其他图片同高度，避免不一致
+}
