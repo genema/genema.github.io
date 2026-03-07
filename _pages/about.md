@@ -76,7 +76,7 @@ Experience
 + > Representation Learning, Associative Memory
 
 + [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6. *Research Intern*
-+ >Credit Assignment, Neuromorphic Algorithm
++ > Credit Assignment, Neuromorphic Algorithm
 
 + [*Brain-Machine Intelligence State Key Lab*](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738116/page.htm), Zhejiang University, Hangzhou, PRC. 2020.9 -- 2024.6. PhD candidate
 
