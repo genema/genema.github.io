@@ -29,37 +29,37 @@ Selected Publications and Preprints
   > A Model of Basic World Understanding. Multi-modal World Model, Associative Memory Model, Credit Assignment in Binary Nets.
  
 
-+ [2023] **G. Ma**, R. J., R. Y., et al. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
++ [2023] G. Ma, et al. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
 
    *NeurIPS (Thirty-seventh Conference on Neural Information Processing Systems)*. Available at [link](https://neurips.cc/virtual/2023/poster/71480).
 
   > About Memory-conditioning Computation, Credit Assignment
   
 
-+ [2022] **G. Ma**, R. Y., and H. T.. Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks.
++ [2022] G. Ma, et al. Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks.
 
    *Cell Press, Patterns*. Available at [link](https://www.cell.com/patterns/fulltext/S2666-3899(23)00200-3#%20).
 
   > About Credit Assignment, Gradient Estimator
 
 
-+ [2021] **G. Ma**, R. J., L. W., et al. Dual memory model for experience-once task-incremental lifelong learning.
++ [2021] G. Ma, et al. Dual memory model for experience-once task-incremental lifelong learning.
 
    *Elsevier, Neural Networks*. Available at [link](https://github.com/genema/genema.github.io/blob/master/files/1-s2.0-S0893608023003672-main.pdf).
 
   > About Continual Learning, Associative Memory
 
-+ [2020] **G. Ma**, H. W., J. Z., et al. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
++ [2020] G. Ma, et al. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
 
   *AAAI (Thirty-Eighth AAAI Conference on Artificial Intelligence)*. Available at [link](https://ojs.aaai.org/index.php/AAAI/article/view/27813).
 
   > About Representation Learning, Spatiotemporal Modeling
 
 
-+ [2020] Y. W., **G. Ma** (Co-first Author), G. G., et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
++ [2020] Y. W., G. Ma, et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
 
    *Science/AAAS, Research*. Available at [link](http://dx.doi.org/10.34133/2022/9758491).
-  
+  > Bioinformatics
 
 Service
 -----
