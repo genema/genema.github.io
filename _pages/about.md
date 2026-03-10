@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Gehua Ma obtained his PhD in Artificial Intelligence at *State Key Lab of Brain-Machine Intelligence, Zhejiang University*.
+Dr. Gehua Ma obtained his PhD in Artificial Intelligence at State Key Lab of Brain-Machine Intelligence, Zhejiang University.
 
-Previously, he has worked on *Credit Assignment*, *Associative Memory Model*, *Representation Learning* solutions aimed at a world understanding model for computational neuroscience and agentic intelligence. 
+Previously, he has worked on Credit Assignment, Associative Memory Model, Representation Learning solutions aimed at a world understanding model for computational neuroscience and agentic intelligence. 
 
 
 Selected Honors
