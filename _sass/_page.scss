@@ -6,9 +6,9 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
-  padding-left: 2em;
-  padding-right: 2em;
-  animation: intro 0.5s both;
+  padding-left: 1em;
+  padding-right: 1em;
+  animation: intro 0.3s both;
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
@@ -18,9 +18,9 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(11 of 12 last);
-    @include prefix(0 of 12);
-    @include suffix(1 of 12);
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+    @include suffix(2 of 12);
   }
 
   .page__inner-wrap {
@@ -103,7 +103,7 @@
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
-    padding-left: 2rem;
+    padding-left: 1.25rem;
   }
 }
 
@@ -130,7 +130,7 @@
     }
 
     .wrapper {
-      padding-left: 2em;
+      padding-left: 1em;
       padding-right: 1em;
 
       @include breakpoint($x-large) {
@@ -161,8 +161,8 @@
 }
 
 .page__hero-image {
-  height: 200px;
-  width: auto;
+  width: 100%;
+  height: auto;
   -ms-interpolation-mode: bicubic;
 }
 
