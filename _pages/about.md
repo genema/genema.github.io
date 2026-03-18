@@ -74,9 +74,9 @@ Experience
 + [*ByteDance Inc.*](https://www.bytedance.com/en/), Hangzhou, PRC. 2024.8 --. *Senior Algorithmic Engineer*
   > Long-term reward & credit assignment
 
-+ [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), Hangzhou, PRC. 2022.7 -- 2024.7. *Research Intern*
++ [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), The First Affiliated Hospital, ZJU School of Medicine, Hangzhou, PRC. 2022.7 -- 2024.7. *Research Intern*
   > Representation Learning, Associative Memory
-
+  
 + [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6. *Research Intern*
   > Credit Assignment, Neuromorphic Algorithm
 
