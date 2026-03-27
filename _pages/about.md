@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. Gehua Ma obtained his PhD in Artificial Intelligence at State Key Lab of Brain-Machine Intelligence, Zhejiang University.
 
-Previously, he has worked on Credit Assignment, Associative Memory Model, Representation Learning solutions aimed at a world understanding model for computational neuroscience and agentic intelligence. 
+Previously, he has worked on Credit Assignment, Associative Memory Model, Representation Learning solutions aimed at a world representation/understanding model for computational neuroscience and agentic intelligence. 
 
 
 Selected Honors
@@ -32,7 +32,7 @@ Selected Publications and Preprints
 
 + [2023] G. Ma, et al. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
 
-   *NeurIPS (Thirty-seventh Conference on Neural Information Processing Systems)*. Available at [link](https://neurips.cc/virtual/2023/poster/71480).
+   *NeurIPS*. Available at [link](https://neurips.cc/virtual/2023/poster/71480).
 
   > About Memory-conditioning Computation, Credit Assignment
   > 
@@ -46,6 +46,7 @@ Selected Publications and Preprints
   > <img width="auto" height="250" alt="1772873519777" src="https://github.com/user-attachments/assets/57c649d7-3d50-4699-9391-d1149756a201" />
 
 + [2021] G. Ma, et al. Dual memory model for experience-once task-incremental lifelong learning.
+  
    *Elsevier, Neural Networks*. Available at [link](https://github.com/genema/genema.github.io/blob/master/files/1-s2.0-S0893608023003672-main.pdf).
   > About Continual Learning, Associative Memory
   >
@@ -54,7 +55,7 @@ Selected Publications and Preprints
 
 + [2020] G. Ma, et al. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
 
-  *AAAI (Thirty-Eighth AAAI Conference on Artificial Intelligence)*. Available at [link](https://ojs.aaai.org/index.php/AAAI/article/view/27813).
+  *AAAI*. Available at [link](https://ojs.aaai.org/index.php/AAAI/article/view/27813).
   > About Representation Learning, Spatiotemporal Modeling
 
 
