@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Gehua Ma obtained his PhD in Artificial Intelligence at State Key Lab of Brain-Machine Intelligence, Zhejiang University. In my [dissertation](https://github.com/genema/genema.github.io/blob/master/_publications/Research_on_A_Spiking_Generative_Model_of_Spatiotemporal_Memory_Construction_and_Computation.pdf), I explored and demonstrated how artificial agents can recognize, construct, memorize, and execute memory-conditioned computations via extremely sparse latent codes.
+Dr. Gehua Ma earned his PhD in Artificial Intelligence at State Key Lab of Brain-Machine Intelligence, Zhejiang University. His [dissertation](https://github.com/genema/genema.github.io/blob/master/_publications/Research_on_A_Spiking_Generative_Model_of_Spatiotemporal_Memory_Construction_and_Computation.pdf)  explored and demonstrated how artificial agents can recognize, construct, memorize, and execute memory-conditioned computations via extremely sparse latent codes.
 
 Previously, he has worked on Credit Assignment, Associative Memory Model, Representation Learning solutions aimed at a world representation/understanding model for computational neuroscience and agentic intelligence. 
 
