@@ -66,7 +66,7 @@ Selected Publications and Preprints
 
 Service
 -----
-+ Served for top-tier tracks and journals including NeurIPS, ICLR, IJCAI, ICASSP, Proc. of IEEE, Nat. Comm., IEEE TPAMI, IEEE TNNLS, Neural Networks, etc.
++ Served for top-tier tracks and journals including NeurIPS, ICLR, ICML, IJCAI, ICASSP, Proc. of IEEE, Nat. Comm., IEEE TPAMI, IEEE TNNLS, Neural Networks, etc.
   
 
 Experience
