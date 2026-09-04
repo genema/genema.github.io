@@ -97,7 +97,7 @@ redirect_from:
     <div>
       <h3>Academic Service</h3>
       <p>
-        Reviewer for NeurIPS, ICLR, ICML, IJCAI, ICASSP, Proceedings of the IEEE,
+        Served for top-tier tracks&journals including NeurIPS, ICLR, ICML, IJCAI, ICASSP, Proceedings of the IEEE,
         Nature Communications, IEEE TPAMI, IEEE TNNLS, Neural Networks, and
         related venues.
       </p>
