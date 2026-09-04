@@ -87,7 +87,7 @@ redirect_from:
     <div>
       <h3>Honors</h3>
       <ul class="plain-list">
-        <li>Inaugural <a href="https://www.tencent.com/">Tencent</a> <a href="https://join.qq.com/qingyun.html">Project UP</a> Talent Initiative 首批"青云计划"入选</li>
+        <li>Inaugural <a href="https://www.tencent.com/">Tencent</a> <a href="https://join.qq.com/qingyun.html">Project UP</a> Talent Initiative 入选首届"青云计划"</li>
         <li><a href="https://www.chinamobileltd.com/en/global/home.php">China Mobile</a> Project Golden Seed Talent Initiative</li>
         <li>Award of Honor for Graduate of <a href="https://www.zju.edu.cn/english/">Zhejiang University</a></li>
         <li>Outstanding Graduate Student of CCNT, Zhejiang University</li>
