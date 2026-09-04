@@ -1,16 +1,30 @@
 ---
-layout: archive
-title: "Talks and presentations"
+layout: home
+title: "Talks & Presentations"
 permalink: /talks/
-author_profile: true
+author_profile: false
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<section class="listing-intro" aria-labelledby="talks-title">
+  <p class="profile-intro__eyebrow">Selected Appearances</p>
+  <h1 id="talks-title">Talks &amp; Presentations</h1>
+  <p>Conference presentations and invited talks on learning, memory, and brain-inspired intelligence.</p>
+</section>
 
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<section class="talk-list" aria-label="Talks and presentations">
+  {% for post in site.talks reversed %}
+    <article class="talk-item">
+      <div class="talk-item__meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
+        <span>{{ post.type }}</span>
+      </div>
+      <div class="talk-item__body">
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p>{{ post.venue }}</p>
+        {% if post.location %}<p class="talk-item__location">{{ post.location }}</p>{% endif %}
+      </div>
+    </article>
+  {% endfor %}
+</section>

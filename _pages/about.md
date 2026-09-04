@@ -1,102 +1,294 @@
 ---
 permalink: /
-title: "🎯✨"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+layout: home
+title: "Research & Engineering"
+excerpt: "Researcher and algorithm engineer working on long-term reward, credit assignment, and machine intelligence."
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Dr. Gehua Ma earned his PhD in Artificial Intelligence at State Key Lab of Brain-Machine Intelligence, Zhejiang University. His [dissertation](https://github.com/genema/genema.github.io/blob/master/_publications/Research_on_A_Spiking_Generative_Model_of_Spatiotemporal_Memory_Construction_and_Computation.pdf)  explored and demonstrated how artificial agents can recognize, construct, memorize, and execute memory-conditioned computations via extremely sparse latent codes.
+<section class="profile-intro" aria-labelledby="profile-name">
+  <div class="profile-intro__heading">
+    <p class="profile-intro__eyebrow">Research &amp; Engineering</p>
+    <h1 id="profile-name" class="profile-intro__name" itemprop="name">
+      Gehua Ma<span class="typing-cursor" aria-hidden="true"></span>
+    </h1>
+    <p class="profile-intro__role" itemprop="jobTitle">
+      Senior Algorithmic Engineer at
+      <a href="https://www.bytedance.com/en/">ByteDance</a>
+    </p>
+  </div>
 
-Previously, he has worked on Neuron Nets Mechanistic Interpretability topics including Credit Assignment, Associative Memory, Representation Learning solutions aimed at a world representation/understanding model for computational neuroscience and agentic intelligence. 
+  <div class="profile-intro__copy">
+    <p class="profile-intro__lead">
+      I build learning systems around long-term reward, credit assignment,
+      and memory.
+    </p>
+    <nav class="profile-links" aria-label="Profile links">
+      <a href="mailto:gehuama@icloud.com"><i class="fas fa-envelope" aria-hidden="true"></i>Email</a>
+      <a href="https://github.com/genema"><i class="fab fa-github" aria-hidden="true"></i>GitHub</a>
+      <a href="https://www.researchgate.net/profile/Gehua-Ma-2"><i class="fab fa-researchgate" aria-hidden="true"></i>ResearchGate</a>
+      <a href="https://twitter.com/MarcusMa417"><i class="fab fa-twitter" aria-hidden="true"></i>X / Twitter</a>
+    </nav>
+  </div>
 
+  <figure class="profile-intro__portrait">
+    <img
+      src="{{ '/images/ghm.png' | relative_url }}"
+      width="502"
+      height="640"
+      alt="Portrait of Gehua Ma"
+      decoding="async"
+      fetchpriority="high"
+      itemprop="image">
+    <figcaption>Hangzhou, China</figcaption>
+  </figure>
+</section>
 
-Selected Honors
------
-+ Inaugural [TENCENT](https://www.tencent.com/en-us)-['PROJECT UP'](https://join.qq.com/qingyun.html) Talent Initiative （腾讯-"青云计划"）
-+ [CHINA MOBILE](https://www.chinamobileltd.com/en/global/home.php)-'PROJECT GOLDEN SEED' Talent Initiative
-+ Award of Honor for Graduate of [Zhejiang University](https://www.zju.edu.cn/english/) 
-+ Outstanding Graduate Student of CCNT, [Zhejiang University](https://www.zju.edu.cn/english/) 
-+ Graduate of Merit/Triple A graduate, [Zhejiang University](https://www.zju.edu.cn/english/)
+<section id="about" class="home-section home-section--about" aria-labelledby="about-title">
+  <header class="section-heading">
+    <p class="section-heading__index">About</p>
+    <div>
+      <h2 id="about-title">Research Perspective</h2>
+      <p>Connecting learning dynamics with machine intelligence.</p>
+    </div>
+  </header>
 
+  <div class="about-copy">
+    <p>
+      My research spans associative memory, representation learning,
+      computational neuroscience, and agentic intelligence.
+    </p>
+    <p>
+      I earned my PhD in Artificial Intelligence at Zhejiang University's
+      Brain-Machine Intelligence State Key Lab. My
+      <a href="https://github.com/genema/genema.github.io/blob/master/_publications/Research_on_A_Spiking_Generative_Model_of_Spatiotemporal_Memory_Construction_and_Computation.pdf">dissertation</a>
+      studied how artificial agents can recognize, construct, memorize, and
+      execute memory-conditioned computations with extremely sparse latent codes.
+    </p>
+  </div>
+</section>
 
-Selected Publications and Preprints 
------
-+ [2024] [Dissertation] Research on A Spiking Generative Model of Spatiotemporal Memory Construction and Computation. Available at [link](https://github.com/genema/genema.github.io/blob/master/_publications/Research_on_A_Spiking_Generative_Model_of_Spatiotemporal_Memory_Construction_and_Computation.pdf)
+<section id="recognition" class="home-section" aria-labelledby="recognition-title">
+  <header class="section-heading">
+    <p class="section-heading__index">01</p>
+    <div>
+      <h2 id="recognition-title">Recognition &amp; Service</h2>
+      <p>Selected honors and academic contributions.</p>
+    </div>
+  </header>
 
-  > A Model of Basic World Understanding. Multi-modal World Model, Associative Memory Model, Credit Assignment in Binary Nets.
-  > 
-  > <img width="auto" height="250" alt="1772873942415" src="https://github.com/user-attachments/assets/d79ad4fa-d000-465d-8463-d59cd678666e" />
+  <div class="recognition-grid">
+    <div>
+      <h3>Honors</h3>
+      <ul class="plain-list">
+        <li>Inaugural <a href="https://www.tencent.com/">Tencent</a> <a href="https://join.qq.com/qingyun.html">Project UP</a> Talent Initiative</li>
+        <li><a href="https://www.chinamobileltd.com/en/global/home.php">China Mobile</a> Project Golden Seed Talent Initiative</li>
+        <li>Award of Honor for Graduate of <a href="https://www.zju.edu.cn/english/">Zhejiang University</a></li>
+        <li>Outstanding Graduate Student of CCNT, Zhejiang University</li>
+        <li>Graduate of Merit / Triple A Graduate, Zhejiang University</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Academic Service</h3>
+      <p>
+        Reviewer for NeurIPS, ICLR, ICML, IJCAI, ICASSP, Proceedings of the IEEE,
+        Nature Communications, IEEE TPAMI, IEEE TNNLS, Neural Networks, and
+        related venues.
+      </p>
+      <h3 class="recognition-grid__subheading">International Exchange</h3>
+      <ul class="plain-list plain-list--compact">
+        <li>Chinese University of Hong Kong, 2016</li>
+        <li>Technical University of Munich, 2014</li>
+        <li>New York University, 2012</li>
+      </ul>
+    </div>
+  </div>
+</section>
 
-+ [2023] G. Ma, et al. Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes.
+<section id="research" class="home-section" aria-labelledby="research-title">
+  <header class="section-heading">
+    <p class="section-heading__index">02</p>
+    <div>
+      <h2 id="research-title">Selected Research</h2>
+      <p>Work on memory, credit assignment, and learning systems.</p>
+    </div>
+  </header>
 
-   *NeurIPS*. Available at [link](https://neurips.cc/virtual/2023/poster/71480).
+  <div class="research-list">
+    <article class="research-item">
+      <div class="research-item__meta">
+        <span>2024</span>
+        <span>PhD Dissertation</span>
+      </div>
+      <div class="research-item__body">
+        <h3>
+          <a href="https://github.com/genema/genema.github.io/blob/master/_publications/Research_on_A_Spiking_Generative_Model_of_Spatiotemporal_Memory_Construction_and_Computation.pdf">
+            Research on a Spiking Generative Model of Spatiotemporal Memory Construction and Computation
+          </a>
+        </h3>
+        <p>A model of basic world understanding through multimodal world models, associative memory, and credit assignment in binary networks.</p>
+        <div class="research-tags" aria-label="Topics">
+          <span>World Models</span><span>Associative Memory</span><span>Credit Assignment</span>
+        </div>
+      </div>
+    </article>
 
-  > About Memory-conditioning Computation, Credit Assignment
-  > 
-  > <img width="auto" height="200" alt="1772873460045" src="https://github.com/user-attachments/assets/12be40e9-2de1-4b30-8ff9-92cf9ba1792d" />
+    <article class="research-item">
+      <div class="research-item__meta">
+        <span>2023</span>
+        <span>NeurIPS</span>
+      </div>
+      <div class="research-item__body">
+        <h3>
+          <a href="https://neurips.cc/virtual/2023/poster/71480">
+            Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes
+          </a>
+        </h3>
+        <p>Memory-conditioned computation and credit assignment for modeling neural responses to natural visual input.</p>
+        <div class="research-tags" aria-label="Topics">
+          <span>Spiking Networks</span><span>Latent Variables</span>
+        </div>
+      </div>
+    </article>
 
-+ [2022] G. Ma, et al. Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks.
+    <article class="research-item">
+      <div class="research-item__meta">
+        <span>2022</span>
+        <span>Patterns</span>
+      </div>
+      <div class="research-item__body">
+        <h3>
+          <a href="https://www.cell.com/patterns/fulltext/S2666-3899(23)00200-3">
+            Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks
+          </a>
+        </h3>
+        <p>Using noise as a computational resource for gradient estimation and learning in spiking neural networks.</p>
+        <div class="research-tags" aria-label="Topics">
+          <span>Gradient Estimation</span><span>Neuromorphic Computing</span>
+        </div>
+      </div>
+    </article>
 
-   *Cell Press, Patterns*. Available at [link](https://www.cell.com/patterns/fulltext/S2666-3899(23)00200-3#%20).
-  > About Credit Assignment, Gradient Estimator
-  > 
-  > <img width="auto" height="250" alt="1772873519777" src="https://github.com/user-attachments/assets/57c649d7-3d50-4699-9391-d1149756a201" />
+    <article class="research-item">
+      <div class="research-item__meta">
+        <span>2021</span>
+        <span>Neural Networks</span>
+      </div>
+      <div class="research-item__body">
+        <h3>
+          <a href="https://github.com/genema/genema.github.io/blob/master/files/1-s2.0-S0893608023003672-main.pdf">
+            Dual Memory Model for Experience-once Task-incremental Lifelong Learning
+          </a>
+        </h3>
+        <p>A dual-memory approach to continual learning from limited task experience.</p>
+        <div class="research-tags" aria-label="Topics">
+          <span>Continual Learning</span><span>Associative Memory</span>
+        </div>
+      </div>
+    </article>
 
-+ [2021] G. Ma, et al. Dual memory model for experience-once task-incremental lifelong learning.
-  
-   *Elsevier, Neural Networks*. Available at [link](https://github.com/genema/genema.github.io/blob/master/files/1-s2.0-S0893608023003672-main.pdf).
-  > About Continual Learning, Associative Memory
-  >
-  > <img width="auto" height="170" alt="1772873589377" src="https://github.com/user-attachments/assets/13a336a6-71d4-4683-9155-e3f322cd0ed7" />
-  > <img width="auto" height="170" alt="1772873613708" src="https://github.com/user-attachments/assets/7027ce58-761d-4c57-a28c-4b0071b23f7b" />
+    <article class="research-item">
+      <div class="research-item__meta">
+        <span>2020</span>
+        <span>AAAI</span>
+      </div>
+      <div class="research-item__body">
+        <h3>
+          <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27813">
+            Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation
+          </a>
+        </h3>
+        <p>Brain-inspired spatiotemporal representation learning for successive point-of-interest recommendation.</p>
+        <div class="research-tags" aria-label="Topics">
+          <span>Recommendation</span><span>Representation Learning</span>
+        </div>
+      </div>
+    </article>
 
-+ [2020] G. Ma, et al. Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
+    <article class="research-item">
+      <div class="research-item__meta">
+        <span>2020</span>
+        <span>Research</span>
+      </div>
+      <div class="research-item__body">
+        <h3>
+          <a href="https://doi.org/10.34133/2022/9758491">
+            Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities
+          </a>
+        </h3>
+        <p>Bioimaging methods and challenges for dissolvable microneedle arrays.</p>
+        <div class="research-tags" aria-label="Topics">
+          <span>Bioinformatics</span><span>Bioimaging</span>
+        </div>
+      </div>
+    </article>
+  </div>
+</section>
 
-  *AAAI*. Available at [link](https://ojs.aaai.org/index.php/AAAI/article/view/27813).
-  > About Representation Learning, Spatiotemporal Modeling
+<section id="experience" class="home-section" aria-labelledby="experience-title">
+  <header class="section-heading">
+    <p class="section-heading__index">03</p>
+    <div>
+      <h2 id="experience-title">Experience</h2>
+      <p>Research and engineering across industry and academia.</p>
+    </div>
+  </header>
 
+  <ol class="timeline">
+    <li>
+      <div class="timeline__date">2024.08 - Present</div>
+      <div>
+        <h3><a href="https://www.bytedance.com/en/">ByteDance Inc.</a></h3>
+        <p class="timeline__role">Senior Algorithmic Engineer</p>
+        <p>Long-term reward and credit assignment.</p>
+      </div>
+    </li>
+    <li>
+      <div class="timeline__date">2022.07 - 2024.07</div>
+      <div>
+        <h3><a href="http://liangzhulab.zju.edu.cn">Liangzhu Laboratory</a></h3>
+        <p class="timeline__role">Research Intern</p>
+        <p>Representation learning and associative memory.</p>
+      </div>
+    </li>
+    <li>
+      <div class="timeline__date">2020.09 - 2024.06</div>
+      <div>
+        <h3><a href="http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738116/page.htm">Brain-Machine Intelligence State Key Lab</a></h3>
+        <p class="timeline__role">PhD Candidate, Zhejiang University</p>
+      </div>
+    </li>
+    <li>
+      <div class="timeline__date">2020.07 - 2021.06</div>
+      <div>
+        <h3><a href="https://www.zhejianglab.com/home">Zhejiang Laboratory</a></h3>
+        <p class="timeline__role">Research Intern</p>
+        <p>Credit assignment and neuromorphic algorithms.</p>
+      </div>
+    </li>
+  </ol>
+</section>
 
-+ [2020] Y. W., G. Ma, et al. Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities.
+<section id="patents" class="home-section home-section--last" aria-labelledby="patents-title">
+  <header class="section-heading">
+    <p class="section-heading__index">04</p>
+    <div>
+      <h2 id="patents-title">Patents</h2>
+      <p>Applied work in recommendation and medical imaging.</p>
+    </div>
+  </header>
 
-   *Science/AAAS, Research*. Available at [link](http://dx.doi.org/10.34133/2022/9758491).
-  > Bioinformatics
-
-Service
------
-+ Served for top-tier tracks and journals including NeurIPS, ICLR, ICML, IJCAI, ICASSP, Proc. of IEEE, Nat. Comm., IEEE TPAMI, IEEE TNNLS, Neural Networks, etc.
-  
-
-Experience
------
-
-+ [*ByteDance Inc.*](https://www.bytedance.com/en/), Hangzhou, PRC. 2024.8 --. *Senior Algorithmic Engineer*
-  > Long-term reward & credit assignment
-
-+ [*Liangzhu Laboratory*](http://liangzhulab.zju.edu.cn), The First Affiliated Hospital, ZJU School of Medicine, Hangzhou, PRC. 2022.7 -- 2024.7. *Research Intern*
-  > Representation Learning, Associative Memory
-  
-+ [*Zhejiang Laboratory*](https://www.zhejianglab.com/home), Hangzhou, PRC. 2020.7 -- 2021.6. *Research Intern*
-  > Credit Assignment, Neuromorphic Algorithm
-
-+ [*Brain-Machine Intelligence State Key Lab*](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738116/page.htm), Zhejiang University, Hangzhou, PRC. 2020.9 -- 2024.6. PhD candidate
-
-
-Exchange 
------
-+ The Chinese University of Hong Kong, HK, PRC. 2016. *Visiting Student*
-  
-+ Technische Universität München, München, Germany. 2014. *Summer Campus*
-
-+ New York University, NY, USA. 2012. *Summer Campus*
-
-
-Patents
------
-
-+ [2021] H. T., **Gehua Ma**, and R. Y. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation. PCT (International): WO/2023/015658, CN202110930940.0 (granted).
-
-+ [2019] S. X., C. T., **Gehua Ma**, and B. Wang. A deep learning based vein visualization method and device. CN201911365761.6
-
+  <ol class="patent-list">
+    <li>
+      <span>2021</span>
+      <p>H. T., <strong>Gehua Ma</strong>, and R. Y. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation. PCT: WO/2023/015658; CN202110930940.0 (granted).</p>
+    </li>
+    <li>
+      <span>2019</span>
+      <p>S. X., C. T., <strong>Gehua Ma</strong>, and B. Wang. A deep learning based vein visualization method and device. CN201911365761.6.</p>
+    </li>
+  </ol>
+</section>
