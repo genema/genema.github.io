@@ -5,6 +5,14 @@
     <li><a href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a></li>
     <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
     <li><a href="{{ base_path }}/talks/"><i class="fas fa-microphone" aria-hidden="true"></i> Talks</a></li>
+    <li id="busuanzi_container_site_uv" class="visitor-count" style="display: none;">
+      <i class="fas fa-users" aria-hidden="true"></i>
+      <span id="busuanzi_value_site_uv"></span> visitors
+    </li>
+    <li id="busuanzi_container_site_pv" class="visitor-count" style="display: none;">
+      <i class="fas fa-eye" aria-hidden="true"></i>
+      <span id="busuanzi_value_site_pv"></span> page views
+    </li>
   </ul>
 </div>
 
@@ -12,3 +20,5 @@
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
   Built with <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> and hosted on GitHub Pages.
 </div>
+
+<script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>

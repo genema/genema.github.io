@@ -495,8 +495,8 @@ button:focus-visible {
   }
 }
 
-.research-item__visual--paper img {
-  object-position: center 10%;
+.research-item__visual--contain img {
+  object-fit: contain;
 }
 
 .research-item__meta {
@@ -681,6 +681,16 @@ button:focus-visible {
 
 .page__footer-follow li {
   text-transform: none;
+}
+
+.page__footer-follow .visitor-count {
+  color: $muted-ink;
+  font-family: $monospace;
+  font-size: 0.7rem;
+
+  i {
+    margin-right: 0.2rem;
+  }
 }
 
 @media (max-width: 56rem) {

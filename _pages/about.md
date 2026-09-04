@@ -206,8 +206,8 @@ redirect_from:
     </article>
 
     <article class="research-item">
-      <figure class="research-item__visual research-item__visual--paper">
-        <img src="{{ '/images/research/step.jpg' | relative_url }}" width="480" height="622" loading="lazy" decoding="async" alt="First page of the STEP paper">
+      <figure class="research-item__visual research-item__visual--contain">
+        <img src="{{ '/images/research/step.jpg' | relative_url }}" width="720" height="336" loading="lazy" decoding="async" alt="Architecture of the STEP spatiotemporal recommendation model">
       </figure>
       <div class="research-item__meta">
         <span>2020</span>
@@ -227,8 +227,8 @@ redirect_from:
     </article>
 
     <article class="research-item">
-      <figure class="research-item__visual">
-        <img src="{{ '/images/research/bioimaging.jpg' | relative_url }}" width="480" height="186" loading="lazy" decoding="async" alt="Dissolvable microneedle array delivery mechanisms">
+      <figure class="research-item__visual research-item__visual--contain">
+        <img src="{{ '/images/research/bioimaging.jpg' | relative_url }}" width="720" height="584" loading="lazy" decoding="async" alt="Microscopy and 3D reconstruction of dissolvable microneedle arrays">
       </figure>
       <div class="research-item__meta">
         <span>2020</span>
