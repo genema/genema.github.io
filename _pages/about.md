@@ -169,7 +169,7 @@ redirect_from:
       </figure>
       <div class="research-item__meta">
         <span>2022</span>
-        <span>Patterns</span>
+        <span>CELL Patterns</span>
       </div>
       <div class="research-item__body">
         <h3>

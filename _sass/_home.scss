@@ -693,6 +693,20 @@ button:focus-visible {
   }
 }
 
+.visitor-map {
+  display: inline-block;
+  margin-top: 0.85rem;
+
+  img {
+    display: block;
+    width: 12.375rem;
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+    border: 0;
+  }
+}
+
 @media (max-width: 56rem) {
   .profile-intro {
     grid-template-areas:
