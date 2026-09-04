@@ -2,7 +2,7 @@
 permalink: /
 layout: home
 title: "Research & Engineering"
-excerpt: "Researcher and algorithm engineer working on long-term reward, credit assignment, and machine intelligence."
+excerpt: "Researcher and algorithm engineer studying long-horizon learning, credit assignment, memory, and machine intelligence."
 author_profile: false
 redirect_from:
   - /about/
@@ -23,8 +23,8 @@ redirect_from:
 
   <div class="profile-intro__copy">
     <p class="profile-intro__lead">
-      I build learning systems around long-term reward, credit assignment,
-      and memory.
+      I build learning systems that connect long-horizon objectives with
+      reliable credit assignment and memory.
     </p>
     <nav class="profile-links" aria-label="Profile links">
       <a href="mailto:gehuama@icloud.com"><i class="fas fa-envelope" aria-hidden="true"></i>Email</a>
@@ -52,21 +52,24 @@ redirect_from:
     <p class="section-heading__index">About</p>
     <div>
       <h2 id="about-title">Research Perspective</h2>
-      <p>Connecting learning dynamics with machine intelligence.</p>
+      <p>Connecting learning dynamics, memory, and intelligent behavior.</p>
     </div>
   </header>
 
   <div class="about-copy">
     <p>
-      My research spans associative memory, representation learning,
-      computational neuroscience, and agentic intelligence.
+      My work asks how intelligent systems can preserve useful experience,
+      assign credit across long horizons, and form reusable representations.
+      I approach these questions through recommender systems, associative
+      memory, representation learning, and computational neuroscience.
     </p>
     <p>
-      I earned my PhD in Artificial Intelligence at Zhejiang University's
+      Before joining ByteDance, I completed a PhD in Artificial Intelligence at
+      Zhejiang University's
       Brain-Machine Intelligence State Key Lab. My
       <a href="https://github.com/genema/genema.github.io/blob/master/_publications/Research_on_A_Spiking_Generative_Model_of_Spatiotemporal_Memory_Construction_and_Computation.pdf">dissertation</a>
-      studied how artificial agents can recognize, construct, memorize, and
-      execute memory-conditioned computations with extremely sparse latent codes.
+      investigated how sparse latent codes can support recognition, memory
+      formation, and memory-conditioned computation.
     </p>
   </div>
 </section>
@@ -119,6 +122,9 @@ redirect_from:
 
   <div class="research-list">
     <article class="research-item">
+      <figure class="research-item__visual">
+        <img src="{{ '/images/research/dissertation.jpg' | relative_url }}" width="480" height="296" loading="lazy" decoding="async" alt="Brain-inspired long-term and short-term memory architecture">
+      </figure>
       <div class="research-item__meta">
         <span>2024</span>
         <span>PhD Dissertation</span>
@@ -129,7 +135,7 @@ redirect_from:
             Research on a Spiking Generative Model of Spatiotemporal Memory Construction and Computation
           </a>
         </h3>
-        <p>A model of basic world understanding through multimodal world models, associative memory, and credit assignment in binary networks.</p>
+        <p>A unified study of multimodal world modeling, associative memory, and credit assignment in binary neural systems.</p>
         <div class="research-tags" aria-label="Topics">
           <span>World Models</span><span>Associative Memory</span><span>Credit Assignment</span>
         </div>
@@ -137,6 +143,9 @@ redirect_from:
     </article>
 
     <article class="research-item">
+      <figure class="research-item__visual">
+        <img src="{{ '/images/research/tecos.jpg' | relative_url }}" width="480" height="130" loading="lazy" decoding="async" alt="Temporal conditioning latent-variable model">
+      </figure>
       <div class="research-item__meta">
         <span>2023</span>
         <span>NeurIPS</span>
@@ -147,7 +156,7 @@ redirect_from:
             Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes
           </a>
         </h3>
-        <p>Memory-conditioned computation and credit assignment for modeling neural responses to natural visual input.</p>
+        <p>A temporally conditioned latent-variable model for predicting neural responses to natural visual scenes.</p>
         <div class="research-tags" aria-label="Topics">
           <span>Spiking Networks</span><span>Latent Variables</span>
         </div>
@@ -155,6 +164,9 @@ redirect_from:
     </article>
 
     <article class="research-item">
+      <figure class="research-item__visual">
+        <img src="{{ '/images/research/noisy-snn.jpg' | relative_url }}" width="480" height="260" loading="lazy" decoding="async" alt="Noise-driven learning in a spiking neural network">
+      </figure>
       <div class="research-item__meta">
         <span>2022</span>
         <span>Patterns</span>
@@ -165,7 +177,7 @@ redirect_from:
             Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks
           </a>
         </h3>
-        <p>Using noise as a computational resource for gradient estimation and learning in spiking neural networks.</p>
+        <p>A theoretical and empirical framework that turns neuronal noise into a useful signal for learning and computation.</p>
         <div class="research-tags" aria-label="Topics">
           <span>Gradient Estimation</span><span>Neuromorphic Computing</span>
         </div>
@@ -173,6 +185,9 @@ redirect_from:
     </article>
 
     <article class="research-item">
+      <figure class="research-item__visual">
+        <img src="{{ '/images/research/dual-memory.jpg' | relative_url }}" width="480" height="248" loading="lazy" decoding="async" alt="Dual-memory architecture for continual learning">
+      </figure>
       <div class="research-item__meta">
         <span>2021</span>
         <span>Neural Networks</span>
@@ -183,7 +198,7 @@ redirect_from:
             Dual Memory Model for Experience-once Task-incremental Lifelong Learning
           </a>
         </h3>
-        <p>A dual-memory approach to continual learning from limited task experience.</p>
+        <p>A complementary-memory architecture designed for rapid, experience-once task-incremental learning.</p>
         <div class="research-tags" aria-label="Topics">
           <span>Continual Learning</span><span>Associative Memory</span>
         </div>
@@ -191,6 +206,9 @@ redirect_from:
     </article>
 
     <article class="research-item">
+      <figure class="research-item__visual research-item__visual--paper">
+        <img src="{{ '/images/research/step.jpg' | relative_url }}" width="480" height="622" loading="lazy" decoding="async" alt="First page of the STEP paper">
+      </figure>
       <div class="research-item__meta">
         <span>2020</span>
         <span>AAAI</span>
@@ -201,7 +219,7 @@ redirect_from:
             Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation
           </a>
         </h3>
-        <p>Brain-inspired spatiotemporal representation learning for successive point-of-interest recommendation.</p>
+        <p>A brain-inspired model that jointly captures spatial and temporal context for successive point-of-interest recommendation.</p>
         <div class="research-tags" aria-label="Topics">
           <span>Recommendation</span><span>Representation Learning</span>
         </div>
@@ -209,6 +227,9 @@ redirect_from:
     </article>
 
     <article class="research-item">
+      <figure class="research-item__visual">
+        <img src="{{ '/images/research/bioimaging.jpg' | relative_url }}" width="480" height="186" loading="lazy" decoding="async" alt="Dissolvable microneedle array delivery mechanisms">
+      </figure>
       <div class="research-item__meta">
         <span>2020</span>
         <span>Research</span>
@@ -219,7 +240,7 @@ redirect_from:
             Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities
           </a>
         </h3>
-        <p>Bioimaging methods and challenges for dissolvable microneedle arrays.</p>
+        <p>A review of imaging methods, measurement challenges, and opportunities for dissolvable microneedle arrays.</p>
         <div class="research-tags" aria-label="Topics">
           <span>Bioinformatics</span><span>Bioimaging</span>
         </div>
@@ -228,12 +249,12 @@ redirect_from:
   </div>
 </section>
 
-<section id="experience" class="home-section" aria-labelledby="experience-title">
+<section id="experience" class="home-section home-section--last" aria-labelledby="experience-title">
   <header class="section-heading">
     <p class="section-heading__index">03</p>
     <div>
       <h2 id="experience-title">Experience</h2>
-      <p>Research and engineering across industry and academia.</p>
+      <p>Applied research across recommender systems, machine intelligence, and computational neuroscience.</p>
     </div>
   </header>
 
@@ -268,27 +289,6 @@ redirect_from:
         <p class="timeline__role">Research Intern</p>
         <p>Credit assignment and neuromorphic algorithms.</p>
       </div>
-    </li>
-  </ol>
-</section>
-
-<section id="patents" class="home-section home-section--last" aria-labelledby="patents-title">
-  <header class="section-heading">
-    <p class="section-heading__index">04</p>
-    <div>
-      <h2 id="patents-title">Patents</h2>
-      <p>Applied work in recommendation and medical imaging.</p>
-    </div>
-  </header>
-
-  <ol class="patent-list">
-    <li>
-      <span>2021</span>
-      <p>H. T., <strong>Gehua Ma</strong>, and R. Y. Point of Interest Recommendation Method and System based on Brain-inspired Spatiotemporal Perceptual Representation. PCT: WO/2023/015658; CN202110930940.0 (granted).</p>
-    </li>
-    <li>
-      <span>2019</span>
-      <p>S. X., C. T., <strong>Gehua Ma</strong>, and B. Wang. A deep learning based vein visualization method and device. CN201911365761.6.</p>
     </li>
   </ol>
 </section>
