@@ -64,9 +64,8 @@ redirect_from:
       memory, representation learning, and computational neuroscience.
     </p>
     <p>
-      Before joining ByteDance, I completed a PhD in Artificial Intelligence at
-      Zhejiang University's
-      Brain-Machine Intelligence State Key Lab. My
+      Before, I earned my PhD in Artificial Intelligence at
+      the State Key Lab of Brain-Machine Intelligence, ZJU. My
       <a href="https://github.com/genema/genema.github.io/blob/master/_publications/Research_on_A_Spiking_Generative_Model_of_Spatiotemporal_Memory_Construction_and_Computation.pdf">dissertation</a>
       investigated how sparse latent codes can support recognition, memory
       formation, and memory-conditioned computation.
@@ -158,7 +157,7 @@ redirect_from:
         </h3>
         <p>A temporally conditioned latent-variable model for predicting neural responses to natural visual scenes.</p>
         <div class="research-tags" aria-label="Topics">
-          <span> Memory-conditioned Computation</span><span>Latent Variables</span>
+          <span> Memory-conditioned Computation </span><span>Latent Variables</span><span>Time Series</span>
         </div>
       </div>
     </article>
@@ -179,7 +178,7 @@ redirect_from:
         </h3>
         <p>A theoretical and empirical framework that turns neuronal noise into a useful signal for learning and computation.</p>
         <div class="research-tags" aria-label="Topics">
-          <span>Gradient Estimation</span><span>Neuromorphic Computing</span>
+          <span>Gradient Estimator</span><span>Probabilistic Neural Model</span><span>Credit Assignment</span>
         </div>
       </div>
     </article>
@@ -221,7 +220,7 @@ redirect_from:
         </h3>
         <p>A brain-inspired model that jointly captures spatial and temporal context for successive point-of-interest recommendation.</p>
         <div class="research-tags" aria-label="Topics">
-          <span>Recommendation</span><span>Representation Learning</span>
+          <span>Recommendation</span><span>Representation Learning</span><span>spatiotemporal model</span>
         </div>
       </div>
     </article>
@@ -240,7 +239,7 @@ redirect_from:
             Bioimaging of Dissolvable Microneedle Arrays: Challenges and Opportunities
           </a>
         </h3>
-        <p>A review of imaging methods, measurement challenges, and opportunities for dissolvable microneedle arrays.</p>
+        <p>A review of imaging methods, measurement challenges, and opportunities for medical bioimages.</p>
         <div class="research-tags" aria-label="Topics">
           <span>Bioinformatics</span><span>Bioimaging</span>
         </div>
