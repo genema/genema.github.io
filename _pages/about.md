@@ -58,8 +58,8 @@ redirect_from:
 
   <div class="about-copy">
     <p>
-      My work asks how intelligent systems can preserve useful experience,
-      assign credit across long horizons, and form reusable representations.
+      My work focuses how artificial neural systems can preserve useful experience,
+      assign credit across long horizons, and form generalisable representations.
       I approach these questions through recommender systems, associative
       memory, representation learning, and computational neuroscience.
     </p>
