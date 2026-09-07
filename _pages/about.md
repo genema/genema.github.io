@@ -277,7 +277,7 @@ redirect_from:
     <li>
       <div class="timeline__date">2020.09 - 2024.06</div>
       <div>
-        <h3><a href="http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738116/page.htm">Brain-Machine Intelligence State Key Lab</a></h3>
+        <h3><a href="http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738116/page.htm">The State Key Lab of Brain-Machine Intelligence</a></h3>, ZJU
         <p class="timeline__role">PhD Candidate, Zhejiang University</p>
       </div>
     </li>
@@ -286,7 +286,7 @@ redirect_from:
       <div>
         <h3><a href="https://www.zhejianglab.com/home">Zhejiang Laboratory</a></h3>
         <p class="timeline__role">Research Intern</p>
-        <p>Very-large-scale quantized networks, euromorphic algorithms.</p>
+        <p>Very-large-scale quantized networks, neuromorphic algorithms.</p>
       </div>
     </li>
   </ol>
