@@ -29,8 +29,8 @@ redirect_from:
     <nav class="profile-links" aria-label="Profile links">
       <a href="mailto:gehuama@icloud.com"><i class="fas fa-envelope" aria-hidden="true"></i>Email</a>
       <a href="https://github.com/genema"><i class="fab fa-github" aria-hidden="true"></i>GitHub</a>
-      <a href="https://www.researchgate.net/profile/Gehua-Ma-2"><i class="fab fa-researchgate" aria-hidden="true"></i>ResearchGate</a>
-      <a href="https://twitter.com/MarcusMa417"><i class="fab fa-twitter" aria-hidden="true"></i>X / Twitter</a>
+      
+      
     </nav>
   </div>
 
@@ -277,7 +277,7 @@ redirect_from:
     <li>
       <div class="timeline__date">2020.09 - 2024.06</div>
       <div>
-        <h3><a href="http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738116/page.htm">The State Key Lab of Brain-Machine Intelligence</a>, ZJU</h3>
+        <h3><a href="http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738116/page.htm">The State Key Lab of Brain-Machine Intelligence, ZJU</a></h3>
         <p class="timeline__role">PhD Candidate, Zhejiang University</p>
       </div>
     </li>
