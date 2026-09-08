@@ -134,7 +134,7 @@ redirect_from:
             Research on a Spiking Generative Model of Spatiotemporal Memory Construction and Computation
           </a>
         </h3>
-        <p>A unified study of multimodal world modeling, associative memory, and credit assignment in binary neural systems.</p>
+        <p>A unified model which supports multimodal input, associative memory, and learned by temporal credit assignment in sparse neural models.</p>
         <div class="research-tags" aria-label="Topics">
           <span>World Models</span><span>Associative Memory</span><span>Credit Assignment</span>
         </div>
@@ -155,7 +155,7 @@ redirect_from:
             Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes
           </a>
         </h3>
-        <p>A temporally conditioned latent-variable model for predicting neural responses to natural visual scenes.</p>
+        <p>A memory-conditioned latent variable model for predicting ultra-long neural responses to natural visual scenes.</p>
         <div class="research-tags" aria-label="Topics">
           <span> Memory-conditioned Computation </span><span>Latent Variables</span><span>Time Series</span>
         </div>
@@ -176,7 +176,7 @@ redirect_from:
             Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks
           </a>
         </h3>
-        <p>A theoretical and empirical framework that turns neuronal noise into a useful signal for learning and computation.</p>
+        <p>A theoretical and empirical framework that leverages neuronal noise as learning signals.</p>
         <div class="research-tags" aria-label="Topics">
           <span>Gradient Estimator</span><span>Probabilistic Neural Model</span><span>Credit Assignment</span>
         </div>
@@ -197,7 +197,7 @@ redirect_from:
             Dual Memory Model for Experience-once Task-incremental Lifelong Learning
           </a>
         </h3>
-        <p>A complementary-memory architecture designed for rapid, experience-once task-incremental learning.</p>
+        <p>A complementary-memory architecture designed for rapid, experience-once continual learning.</p>
         <div class="research-tags" aria-label="Topics">
           <span>Continual Learning</span><span>Associative Memory</span>
         </div>
@@ -218,7 +218,7 @@ redirect_from:
             Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation
           </a>
         </h3>
-        <p>A brain-inspired model that jointly captures spatial and temporal context for successive point-of-interest recommendation.</p>
+        <p>A model that jointly captures spatial and temporal context for successive point-of-interest recommendation.</p>
         <div class="research-tags" aria-label="Topics">
           <span>Recommendation</span><span>Representation Learning</span><span>spatiotemporal model</span>
         </div>
