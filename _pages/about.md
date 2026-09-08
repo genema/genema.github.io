@@ -277,7 +277,7 @@ redirect_from:
     <li>
       <div class="timeline__date">2020.09 - 2024.06</div>
       <div>
-        <h3><a href="http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738116/page.htm">The State Key Lab of Brain-Machine Intelligence</a></h3>, ZJU
+        <h3><a href="http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738116/page.htm">The State Key Lab of Brain-Machine Intelligence</a>, ZJU</h3>
         <p class="timeline__role">PhD Candidate, Zhejiang University</p>
       </div>
     </li>
