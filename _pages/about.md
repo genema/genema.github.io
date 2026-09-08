@@ -269,7 +269,7 @@ redirect_from:
     <li>
       <div class="timeline__date">2022.07 - 2024.07</div>
       <div>
-        <h3><a href="http://liangzhulab.zju.edu.cn">Liangzhu Laboratory</a>, Medical Center - The First Affiliated Hospital, ZJU School of Medicine</h3>
+        <h3><a href="http://liangzhulab.zju.edu.cn/english">Liangzhu Laboratory, Medical Center - The First Affiliated Hospital, ZJU School of Medicine</a></h3>
         <p class="timeline__role">Research Intern</p>
         <p>Representation learning and associative memory.</p>
       </div>
