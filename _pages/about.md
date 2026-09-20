@@ -16,8 +16,7 @@ redirect_from:
       Gehua Ma<span class="typing-cursor" aria-hidden="true"></span>
     </h1>
     <p class="profile-intro__role" itemprop="jobTitle">
-      Senior Algorithmic Engineer at
-      <a href="https://www.bytedance.com/en/">ByteDance</a>
+      Dr.
     </p>
   </div>
 
