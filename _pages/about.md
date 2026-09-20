@@ -23,7 +23,7 @@ redirect_from:
 
   <div class="profile-intro__copy">
     <p class="profile-intro__lead">
-      I build learning systems that connect long-horizon objectives with
+      I build dynamical systems that connect long-horizon objectives with
       reliable credit assignment and memory.
     </p>
     <nav class="profile-links" aria-label="Profile links">
@@ -178,7 +178,7 @@ redirect_from:
         </h3>
         <p>A theoretical and empirical framework that leverages neuronal noise as learning signals.</p>
         <div class="research-tags" aria-label="Topics">
-          <span>Gradient Estimator</span><span>Probabilistic Neural Model</span><span>Credit Assignment</span>
+          <span>Dynamical System</span><span>Gradient Estimator</span><span>Probabilistic Neural Model</span><span>Credit Assignment</span>
         </div>
       </div>
     </article>
